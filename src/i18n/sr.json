@@ -1,0 +1,165 @@
+{
+  "common": {
+    "home": "Početna",
+    "about": "O meni",
+    "coaching": "Coaching",
+    "resources": "Resursi",
+    "contact": "Kontakt",
+    "bookCall": "Zakaži uvodni poziv",
+    "viewResources": "Pogledaj resurse",
+    "footerLine": "Trening izdrzljivosti zasnovan na dokazima sa mirnim procesom koji stavlja sportistu na prvo mesto."
+  },
+  "home": {
+    "heroEyebrow": "Online endurance coaching",
+    "heroTitle": "Gde se sportska nauka spaja sa treningom izdržljivosti",
+    "heroSubtitle": "Spajam sportsku nauku i realan trening za trkače, bicikliste i triatlonce kroz jasnu komunikaciju i dugoročni napredak.",
+    "heroSecondaryCta": "Kako coaching funkcioniše",
+    "heroCred": "UESCA Certified Triathlon Coach • Data + RPE • Individualizovan plan",
+    "optimizeTitle": "Šta optimizujem",
+    "optimizeItems": [
+      "Fiziologijom vođene trening odluke koje razumeš i možeš da primeniš",
+      "Razvoj aerobne izdržljivosti i praga za održiv napredak",
+      "Praktičnu strategiju trke i fuelinga usklađenu sa realnim životom"
+    ],
+    "aboutTitle": "O Milanu",
+    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach sa fokusom na trčanje, biciklizam i triatlon. Pristup je baziran na dokazima, ali sportista je na prvom mestu. Kombinujem tempo, snagu (power), puls, laktate i RPE sa realnim životnim kontekstom.",
+    "aboutBullets": [
+      "Sertifikat: UESCA Triathlon Coach",
+      "Alati: Intervals.icu + praktična analiza treninga",
+      "Pristup: individualizacija, progresivno opterećenje, poštovanje oporavka"
+    ],
+    "principlesTitle": "Moji coaching principi",
+    "principles": [
+      {
+        "title": "Trening mora da bude ponovljiv",
+        "body": "Konzistentnost pobeđuje herojske nedelje."
+      },
+      {
+        "title": "Intenzitet ima cenu",
+        "body": "Jake sesije koristimo pažljivo, ne stalno."
+      },
+      {
+        "title": "Podaci traže kontekst",
+        "body": "Brojevi pomažu, ali povratne informacije sportiste odlučuje."
+      },
+      {
+        "title": "Dugoročno pre kratkoročnog",
+        "body": "Prvo gradimo izdržljivost, pa oštrinu."
+      },
+      {
+        "title": "Jednostavno je bolje od komplikovanog",
+        "body": "Manje ključnih treninga, bolje izvedenih."
+      },
+      {
+        "title": "Edukacija je važna",
+        "body": "Učiš kako tvoje telo i trening funkcionišu."
+      }
+    ],
+    "offerTitle": "1:1 Online Coaching",
+    "offerBody": "Lični plan treninga i stalni povratne informacije, prilagođeni tvom rasporedu, ciljevima i reakciji na trening.",
+    "offerIncludedTitle": "Šta je uključeno",
+    "offerItems": [
+      "Individualni nedeljni plan treninga (trčanje/bicikl; triatlon uključen)",
+      "Povratne informacije po sesiji i prilagođavanja na osnovu performansi + RPE",
+      "Analiza ključnih treninga i praćenje trendova",
+      "Mesečna provera napretka i sledeći koraci",
+      "Smernice za fueling na treningu i dan trke",
+      "Podrška porukama (odgovor u roku 24-48h)"
+    ],
+    "auditTitle": "Training Audit (jednokratno)",
+    "auditItems": [
+      "Analiza poslednjih 4-8 nedelja treninga",
+      "Identifikacija glavnog limita i prioriteta",
+      "Predlog strukture za naredne 2 nedelje"
+    ],
+    "fitTitle": "Za koga je najbolji fit",
+    "fitYesTitle": "Odličan fit",
+    "fitYes": [
+      "Age-group trkači, biciklisti i triatlonci",
+      "Sportisti kojima znače struktura i povratne informacije",
+      "Ljudi koji žele da razumeju trening odluke",
+      "Zaposleni koji uklapaju trening u život"
+    ],
+    "fitNoTitle": "Nije dobar fit",
+    "fitNo": [
+      "Tražiš quick hacks i stalno jak intenzitet",
+      "Nisi spreman za komunikaciju i oporavak",
+      "Želiš samo generički plan bez povratne informacije"
+    ],
+    "developingTitle": "Zašto rad sa mnom sada",
+    "developingBody": "Roster gradim namerno, što znači visoku pažnju i pažljivo planiranje za svakog sportistu. Continuous Development je deo mog procesa, uključujući INSCYD edukaciju i kontinuirano usavršavanje. Ne obećavam magiju, već proces kome možeš da veruješ.",
+    "processTitle": "Kako coaching funkcioniše",
+    "processSteps": [
+      {
+        "title": "Uvodni poziv (15-20 min)",
+        "body": "Usklađujemo ciljeve, istoriju treninga, ograničenja i očekivanja."
+      },
+      {
+        "title": "Setup nedelja",
+        "body": "Podesimo zone/testiranje po potrebi, raspored i prvu strukturu."
+      },
+      {
+        "title": "Treniraj i iteriraj",
+        "body": "Nedeljno azuriranje, povratne informacije i progresivna izgradnja."
+      }
+    ],
+    "resourcesTitle": "Besplatni resursi",
+    "resourcesBody": "Praktične sports science smernice koje možeš odmah da primeniš.",
+    "bottomCtaTitle": "Zakaži uvodni poziv",
+    "bottomCtaBody": "Ako želiš strukturu i povratne informacije, hajde da pričamo."
+  },
+  "resources": {
+    "title": "Besplatni resursi",
+    "intro": "Praktična sportska nauka za sportiste izdržljivosti.",
+    "openResource": "Otvori resurs",
+    "items": [
+      {
+        "title": "Threshold trening: šta je i najčešće greške",
+        "points": [
+          "Kako da razumeš cilj threshold sesija",
+          "Najčešće greške u volumenu i intenzitetu",
+          "Jednostavni primeri progresije"
+        ],
+        "href": "https://example.com/resource-threshold"
+      },
+      {
+        "title": "Easy trening: kako easy stvarno treba da izgleda",
+        "points": [
+          "RPE orijentiri za svakodnevni trening",
+          "Kako da easy dan ostane easy",
+          "Zašto ovo podiže kvalitet jakih treninga"
+        ],
+        "href": "https://example.com/resource-easy"
+      },
+      {
+        "title": "Fueling za duge sesije",
+        "points": [
+          "Početni carb/hour opsezi",
+          "Kako da progresivno treniraš digestivnu toleranciju",
+          "Osnove simulacije dana trke"
+        ],
+        "href": "https://example.com/resource-fueling"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "intro": "Zakaži uvodni poziv ili pošalji poruku. Ako je poziv nezgodan zbog vremenskih zona, email je odlična opcija.",
+    "callText": "Najbolja opcija za brz prvi razgovor i jasne sledeće korake.",
+    "emailTitle": "Email",
+    "emailText": "Koristi direktan email ili formular ispod.",
+    "formTitle": "Pošalji upit",
+    "formText": "Otvara se tvoj email klijent sa unapred popunjenim podacima.",
+    "timezoneNote": "Ako poziv nije praktičan zbog vremenskih zona, email je savršen.",
+    "sendEmail": "Pošalji kroz email aplikaciju",
+    "fields": {
+      "name": "Ime",
+      "email": "Email",
+      "sport": "Sport",
+      "timezone": "Vremenska zona",
+      "method": "Preferirani način kontakta",
+      "window": "Preferirani termini za poziv",
+      "message": "Poruka"
+    }
+  }
+}
