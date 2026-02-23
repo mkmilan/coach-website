@@ -34,7 +34,7 @@ export default function SiteHeader({ locale, dict }) {
     <header className="site-header">
       <div className="container site-header__inner">
         <Link href={localeHref(locale, "")} className="logo" onClick={closeMenu}>
-          Milan Endurance
+          <img src="/logosmall.jpg" alt="Milan Endurance logo" />
         </Link>
 
         <nav aria-label="Main navigation" className="nav">

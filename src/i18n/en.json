@@ -7,106 +7,106 @@
     "contact": "Contact",
     "bookCall": "Book intro call",
     "viewResources": "View resources",
-    "footerLine": "Evidence-based endurance coaching with a calm, athlete-first process."
+    "footerLine": "Clear, athlete-first endurance coaching—built around your goals, your schedule, and what actually works."
   },
   "home": {
     "heroEyebrow": "Online endurance coaching",
-    "heroTitle": "Evidence-based endurance coaching built on physiology, not trends.",
-    "heroSubtitle": "Bridging sport science and real-world training for ambitious age-group athletes.",
+    "heroTitle": "Stop guessing. Start improving.",
+    "heroSubtitle": "If your training feels chaotic, inconsistent, or stuck—I'll help you build a simple structure that fits your life and moves you forward.",
     "heroSecondaryCta": "See how coaching works",
-    "heroCred": "Focus on physiology understanding • Currently accepting a limited number of athletes",
-    "optimizeTitle": "What I optimize",
+    "heroCred": "Runners • Cyclists • Triathletes • Calm, science-informed process • Limited roster for high attention",
+    "optimizeTitle": "What we improve (in plain terms)",
     "optimizeItems": [
-      "Physiology-led training decisions you can understand and apply",
-      "Aerobic durability and threshold development for sustainable performance",
-      "Practical race execution and fueling aligned with real life"
+      "A weekly structure you can repeat without burning out",
+      "Aerobic fitness and durability so you can handle more training safely",
+      "Threshold development and pacing confidence—without turning every week into a sufferfest"
     ],
     "aboutTitle": "About Milan",
-    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach focused on running, cycling and triathlon. My work bridges physiology and practical training: I combine pace, power, HR, lactate and RPE with real-life context so decisions are clear, realistic, and useful.",
+    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach. I coach runners, cyclists, and triathletes with a simple goal: turn your effort into consistent progress. We use data (pace, power, HR, lactate when available) but decisions are guided by context and RPE—so the plan stays realistic, not theoretical.",
     "aboutBullets": [
-      "Certified: UESCA Triathlon Coach",
+      "Certification: UESCA Triathlon Coach",
       "Tools: Intervals.icu + practical training analytics",
-      "Approach: individualization, progressive overload, recovery respect"
+      "Style: individualization, progressive overload, recovery respect"
     ],
-    "principlesTitle": "My coaching principles",
+    "principlesTitle": "How I coach",
     "principles": [
       {
-        "title": "Training should be repeatable",
-        "body": "Consistency beats heroic weeks."
+        "title": "You need a plan you can repeat",
+        "body": "Consistency beats perfect sessions."
       },
       {
-        "title": "Intensity has a cost",
-        "body": "Hard sessions are used carefully, not constantly."
+        "title": "Hard training is a tool—not a lifestyle",
+        "body": "We earn intensity and use it with purpose."
       },
       {
-        "title": "Data needs context",
-        "body": "Numbers help, but athlete feedback decides."
+        "title": "Data helps, but the athlete decides",
+        "body": "Numbers guide us; your feedback confirms the right dose."
       },
       {
-        "title": "Long-term over short-term",
-        "body": "Build durability first, then sharpen."
+        "title": "Build the base, then sharpen",
+        "body": "Durability first. Specificity closer to race day."
       },
       {
-        "title": "Simple beats complicated",
-        "body": "Fewer key sessions, executed well."
+        "title": "Simple structure, executed well",
+        "body": "Few key sessions. Clear intent. No noise."
       },
       {
-        "title": "Education matters",
-        "body": "You learn your body and your process."
+        "title": "You should understand your training",
+        "body": "I explain the 'why' so you gain confidence and control."
       }
     ],
     "offerTitle": "1:1 Online Coaching",
-    "offerBody": "Personal training plan and ongoing feedback for committed athletes, built around your schedule, goals, and response to training.",
+    "offerBody": "Personalized training + ongoing feedback—built around your goals, your schedule, and how you respond week to week.",
     "offerIncludedTitle": "What's included",
     "offerItems": [
-      "Individual weekly training plan (run/cycle; tri integrated)",
-      "Session feedback and adjustments based on performance + RPE",
-      "Review of key workouts and trend tracking",
+      "Weekly training plan (running / cycling; triathlon integrated if needed)",
+      "Feedback and adjustments based on sessions + RPE",
+      "Review of key workouts and trend tracking (pace/power/HR)",
       "Monthly progress review and next-step planning",
-      "Fueling guidance for training and race day",
-      "Messaging support (reply window: 24-48h)"
+      "Fueling basics for long sessions and race day",
+      "Messaging support (reply window: 24h)"
     ],
     "auditTitle": "Training Audit (one-time)",
     "auditItems": [
-      "Review last 4-8 weeks of training",
-      "Identify the primary limiter and priority fixes",
-      "Receive a 2-week sample structure"
+      "Review your last 4–8 weeks of training",
+      "Identify the biggest limiter and the simplest fixes",
+      "Get a clear 2-week sample structure"
     ],
-    "fitTitle": "Best fit athletes",
+    "fitTitle": "Who this is for",
     "fitYesTitle": "Great fit",
     "fitYes": [
-      "Age-group runners, cyclists, and triathletes",
-      "Athletes who value structure and feedback",
-      "People who want to understand training decisions",
-      "Busy adults integrating training with life"
+      "Runners, cyclists, and triathletes who want a clear structure",
+      "Athletes who value feedback and honest progress checks",
+      "People who want to understand the purpose of sessions",
+      "Busy adults who need training to fit real life"
     ],
     "fitNoTitle": "Not a fit",
     "fitNo": [
-      "Looking for quick hacks or constant high intensity",
-      "Not ready to communicate and recover consistently",
-      "Want only generic plans with no feedback loop"
+      "If you want quick hacks or constant high intensity",
+      "If you don't want to communicate or respect recovery",
+      "If you're looking for a generic plan with no feedback loop"
     ],
-    "developingTitle": "Why work with a developing coach?",
-    "developingBody": "Because the process is current and athlete-focused: up-to-date with research, a small roster for high attention, detail-oriented planning, and no outdated dogma. I focus on bridging physiology and practical training, and I am currently building a small roster of committed athletes.",
+    "developingTitle": "Why work with me now",
+    "developingBody": "I keep my roster small on purpose—so you get high attention, thoughtful planning, and fast adjustments when life happens. I stay current through ongoing education (including metabolic profiling workshops) and I coach with a calm, athlete-first approach. No hype—just a process you can trust.",
     "processTitle": "How coaching works",
     "processSteps": [
       {
-        "title": "Intro call (15-20 min)",
-        "body": "We align on goals, training history, constraints, and expectations."
+        "title": "Intro call (30-60 min)",
+        "body": "We talk goals, training history, constraints, and what success looks like for you."
       },
       {
         "title": "Setup week",
-        "body": "We set zones/testing if needed, your schedule, and first week structure."
+        "body": "We align schedule, set training zones/testing if needed, and start with a clear first structure."
       },
       {
         "title": "Train and iterate",
-        "body": "Weekly updates, feedback loop, and progressive build."
+        "body": "Weekly feedback, smart progression, and adjustments based on how you respond."
       }
     ],
     "resourcesTitle": "Free resources",
-    "resourcesBody": "Practical sports science notes you can apply immediately.",
+    "resourcesBody": "Practical sports science notes you can apply immediately—no fluff.",
     "bottomCtaTitle": "Book an intro call",
-    "bottomCtaBody": "If you want structure and feedback, let's talk."
+    "bottomCtaBody": "Tell me your goal and your schedule. I'll tell you what I would do—and if we're a good fit."
   },
   "resources": {
     "title": "Free resources",
@@ -116,18 +116,18 @@
       {
         "title": "Threshold training: what it is and common mistakes",
         "points": [
-          "How to identify the purpose of threshold sessions",
-          "Common volume and intensity errors",
-          "Simple progression examples"
+          "How to understand the purpose of threshold sessions",
+          "The most common intensity and volume mistakes",
+          "Simple progression examples you can copy"
         ],
         "href": "https://example.com/resource-threshold"
       },
       {
         "title": "Easy training: what easy should feel like",
         "points": [
-          "RPE anchors for daily use",
+          "Simple RPE anchors you can use daily",
           "How to keep easy days truly easy",
-          "Why this improves quality sessions"
+          "Why this makes hard sessions more effective"
         ],
         "href": "https://example.com/resource-easy"
       },
@@ -144,12 +144,12 @@
   },
   "contact": {
     "title": "Contact",
-    "intro": "Book an intro call or send a message. If a call is not feasible due to time zones, email works perfectly.",
+    "intro": "Book an intro call or send a message. If a call isn't practical due to time zones, email is a perfect option.",
     "callText": "Best for a quick first conversation and clear next steps.",
     "emailTitle": "Email",
     "emailText": "Use the direct email option or the pre-filled form below.",
     "formTitle": "Send an inquiry",
-    "formText": "This opens your default email client with all details pre-filled.",
+    "formText": "This opens your default email app with the details pre-filled.",
     "timezoneNote": "If a call isn't feasible due to time zones, email is perfect.",
     "sendEmail": "Send via email app",
     "fields": {

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="287" viewBox="0 0 284 287" fill="none">
+  <defs>
+    <!-- Orange fill (very subtle gradient like the original) -->
+    <linearGradient id="orangeGrad" x1="230" y1="40" x2="95" y2="265" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#EE6C30"/>
+      <stop offset="1" stop-color="#EE692D"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Blue (left) -->
+  <polygon
+    points="58,46 58,71 100,72 129,120 134,118 145,95 116,46"
+    fill="#1D406B"
+  />
+  <polygon
+    points="58,86 57,111 77,113 105,161 108,161 122,136 92,86"
+    fill="#1D406B"
+  />
+
+  <!-- Orange (right) -->
+  <polygon
+    points="225,45 191,47 92,216 113,235"
+    fill="url(#orangeGrad)"
+  />
+  <polygon
+    points="211,101 124,245 140,262 155,252 227,125"
+    fill="url(#orangeGrad)"
+  />
+</svg>

@@ -7,106 +7,106 @@
     "contact": "Kontakt",
     "bookCall": "Zakaži uvodni poziv",
     "viewResources": "Pogledaj resurse",
-    "footerLine": "Trening izdrzljivosti zasnovan na dokazima sa mirnim procesom koji stavlja sportistu na prvo mesto."
+    "footerLine": "Jasan, sportista-first coaching izdržljivosti—oko tvojih ciljeva, tvog rasporeda i onoga što stvarno radi."
   },
   "home": {
     "heroEyebrow": "Online endurance coaching",
-    "heroTitle": "Gde se sportska nauka spaja sa treningom izdržljivosti",
-    "heroSubtitle": "Spajam sportsku nauku i realan trening za trkače, bicikliste i triatlonce kroz jasnu komunikaciju i dugoročni napredak.",
+    "heroTitle": "Prestani da nagađaš. Počni da napreduješ.",
+    "heroSubtitle": "Ako ti je trening haotičan, nekonzistentan ili si u zastoju—napravićemo jednostavnu strukturu koja se uklapa u tvoj život i vodi te napred.",
     "heroSecondaryCta": "Kako coaching funkcioniše",
-    "heroCred": "UESCA Certified Triathlon Coach • Data + RPE • Individualizovan plan",
-    "optimizeTitle": "Šta optimizujem",
+    "heroCred": "Trkači • Biciklisti • Triatlonci • Proces zasnovan na nauci • Ograničen broj sportista = više pažnje",
+    "optimizeTitle": "Šta popravljamo (bez komplikovanja)",
     "optimizeItems": [
-      "Fiziologijom vođene trening odluke koje razumeš i možeš da primeniš",
-      "Razvoj aerobne izdržljivosti i praga za održiv napredak",
-      "Praktičnu strategiju trke i fuelinga usklađenu sa realnim životom"
+      "Nedeljnu strukturu koju možeš da ponavljaš bez sagorevanja",
+      "Aerobnu bazu i izdržljivost da bezbedno podneseš više treninga",
+      "Razvoj praga i bolja kontrola tempa/power-a — bez stalnog 'gaženja' i previše teških treninga"
     ],
     "aboutTitle": "O Milanu",
-    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach sa fokusom na trčanje, biciklizam i triatlon. Pristup je baziran na dokazima, ali sportista je na prvom mestu. Kombinujem tempo, snagu (power), puls, laktate i RPE sa realnim životnim kontekstom.",
+    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach. Radim sa trkačima, biciklistima i triatloncima sa jednim ciljem: da tvoj trud pretvorimo u konzistentan napredak. Koristimo podatke (tempo, power, puls, laktat kada ga ima), ali odluke uvek imaju kontekst i RPE—da plan bude realan, ne samo 'na papiru'.",
     "aboutBullets": [
       "Sertifikat: UESCA Triathlon Coach",
       "Alati: Intervals.icu + praktična analiza treninga",
       "Pristup: individualizacija, progresivno opterećenje, poštovanje oporavka"
     ],
-    "principlesTitle": "Moji coaching principi",
+    "principlesTitle": "Kako radim",
     "principles": [
       {
-        "title": "Trening mora da bude ponovljiv",
-        "body": "Konzistentnost pobeđuje herojske nedelje."
+        "title": "Plan mora da bude ponovljiv",
+        "body": "Konzistentnost pobeđuje savršen trening."
       },
       {
-        "title": "Intenzitet ima cenu",
-        "body": "Jake sesije koristimo pažljivo, ne stalno."
+        "title": "Jak intenzitet je alat, ne stil života",
+        "body": "Intenzitet ima svrhu i dozu—ne radi se stalno."
       },
       {
-        "title": "Podaci traže kontekst",
-        "body": "Brojevi pomažu, ali povratne informacije sportiste odlučuje."
+        "title": "Podaci pomažu, ali sportista odlučuje",
+        "body": "Brojevi usmere; tvoj osećaj potvrdi pravu dozu."
       },
       {
-        "title": "Dugoročno pre kratkoročnog",
-        "body": "Prvo gradimo izdržljivost, pa oštrinu."
+        "title": "Prvo baza, pa oštrenje",
+        "body": "Izdržljivost i stabilnost prvo. Specifičnost bliže trci."
       },
       {
-        "title": "Jednostavno je bolje od komplikovanog",
-        "body": "Manje ključnih treninga, bolje izvedenih."
+        "title": "Jednostavno, ali dobro izvedeno",
+        "body": "Malo ključnih treninga. Jasan cilj. Bez buke."
       },
       {
-        "title": "Edukacija je važna",
-        "body": "Učiš kako tvoje telo i trening funkcionišu."
+        "title": "Treba da razumeš svoj trening",
+        "body": "Objašnjavam 'zašto' da dobiješ sigurnost i kontrolu."
       }
     ],
     "offerTitle": "1:1 Online Coaching",
-    "offerBody": "Lični plan treninga i stalni povratne informacije, prilagođeni tvom rasporedu, ciljevima i reakciji na trening.",
+    "offerBody": "Personalizovan plan + stalne povratne informacije—oko tvojih ciljeva, tvog rasporeda i toga kako reaguješ iz nedelje u nedelju.",
     "offerIncludedTitle": "Šta je uključeno",
     "offerItems": [
-      "Individualni nedeljni plan treninga (trčanje/bicikl; triatlon uključen)",
-      "Povratne informacije po sesiji i prilagođavanja na osnovu performansi + RPE",
-      "Analiza ključnih treninga i praćenje trendova",
+      "Nedeljni plan treninga (trčanje / bicikl; triatlon po potrebi)",
+      "Povratne informacije i prilagođavanja na osnovu treninga + RPE",
+      "Analiza ključnih sesija i praćenje trendova (tempo/power/puls)",
       "Mesečna provera napretka i sledeći koraci",
-      "Smernice za fueling na treningu i dan trke",
-      "Podrška porukama (odgovor u roku 24-48h)"
+      "Osnove ishrane za duge treninge i dan trke",
+      "Podrška porukama (odgovor u roku 24h)"
     ],
     "auditTitle": "Training Audit (jednokratno)",
     "auditItems": [
-      "Analiza poslednjih 4-8 nedelja treninga",
-      "Identifikacija glavnog limita i prioriteta",
-      "Predlog strukture za naredne 2 nedelje"
+      "Analiza poslednjih 4–8 nedelja treninga",
+      "Najveći limiter + najjednostavniji koraci za popravku",
+      "Jasna struktura za naredne 2 nedelje"
     ],
-    "fitTitle": "Za koga je najbolji fit",
+    "fitTitle": "Za koga je ovo",
     "fitYesTitle": "Odličan fit",
     "fitYes": [
-      "Age-group trkači, biciklisti i triatlonci",
-      "Sportisti kojima znače struktura i povratne informacije",
-      "Ljudi koji žele da razumeju trening odluke",
-      "Zaposleni koji uklapaju trening u život"
+      "Trkači, biciklisti i triatlonci koji žele jasnu strukturu",
+      "Sportisti kojima znači povratne informacije i iskrena provera napretka",
+      "Ljudi koji žele da razumeju svrhu treninga",
+      "Zaposleni koji uklapaju trening u realan život"
     ],
     "fitNoTitle": "Nije dobar fit",
     "fitNo": [
-      "Tražiš quick hacks i stalno jak intenzitet",
-      "Nisi spreman za komunikaciju i oporavak",
-      "Želiš samo generički plan bez povratne informacije"
+      "Ako tražiš quick hacks i stalno jak intenzitet",
+      "Ako ne želiš komunikaciju ili ne poštuješ oporavak",
+      "Ako želiš generički plan bez povratne informacije-a"
     ],
     "developingTitle": "Zašto rad sa mnom sada",
-    "developingBody": "Roster gradim namerno, što znači visoku pažnju i pažljivo planiranje za svakog sportistu. Continuous Development je deo mog procesa, uključujući INSCYD edukaciju i kontinuirano usavršavanje. Ne obećavam magiju, već proces kome možeš da veruješ.",
+    "developingBody": "Radim sa ograničenim brojem sportista, kako bih svakome mogao da posvetim dovoljno pažnje. To znači promišljeno planiranje, detaljan pregled treninga i brze prilagodbe kada se raspored promeni. Kontinuirano se usavršavam kroz edukacije i radionice (uključujući metaboličko profilisanje), a pristup mi je praktičan i usmeren na sportistu. Bez preuveličavanja — samo jasan proces i dosledan napredak.",
     "processTitle": "Kako coaching funkcioniše",
     "processSteps": [
       {
-        "title": "Uvodni poziv (15-20 min)",
-        "body": "Usklađujemo ciljeve, istoriju treninga, ograničenja i očekivanja."
+        "title": "Uvodni poziv (30-60 min)",
+        "body": "Pričamo o cilju, istoriji treninga, ograničenjima i šta je za tebe uspeh."
       },
       {
         "title": "Setup nedelja",
-        "body": "Podesimo zone/testiranje po potrebi, raspored i prvu strukturu."
+        "body": "Uskladimo raspored, zone/testiranje po potrebi i krenemo sa jasnom strukturom."
       },
       {
         "title": "Treniraj i iteriraj",
-        "body": "Nedeljno azuriranje, povratne informacije i progresivna izgradnja."
+        "body": "Nedeljne povratne informacije, pametna progresija i prilagođavanja prema tvojoj reakciji."
       }
     ],
     "resourcesTitle": "Besplatni resursi",
-    "resourcesBody": "Praktične sports science smernice koje možeš odmah da primeniš.",
+    "resourcesBody": "Praktične sports science smernice koje možeš odmah da primeniš—bez praznih priča.",
     "bottomCtaTitle": "Zakaži uvodni poziv",
-    "bottomCtaBody": "Ako želiš strukturu i povratne informacije, hajde da pričamo."
+    "bottomCtaBody": "Reci mi cilj i raspored. Ja ću ti reći kako bih to strukturirao—i da li smo dobar fit."
   },
   "resources": {
     "title": "Besplatni resursi",
@@ -117,15 +117,15 @@
         "title": "Threshold trening: šta je i najčešće greške",
         "points": [
           "Kako da razumeš cilj threshold sesija",
-          "Najčešće greške u volumenu i intenzitetu",
-          "Jednostavni primeri progresije"
+          "Najčešće greške u intenzitetu i volumenu",
+          "Jednostavni primeri progresije koje možeš da kopiraš"
         ],
         "href": "https://example.com/resource-threshold"
       },
       {
         "title": "Easy trening: kako easy stvarno treba da izgleda",
         "points": [
-          "RPE orijentiri za svakodnevni trening",
+          "Jednostavni RPE orijentiri za svaki dan",
           "Kako da easy dan ostane easy",
           "Zašto ovo podiže kvalitet jakih treninga"
         ],
@@ -144,12 +144,12 @@
   },
   "contact": {
     "title": "Kontakt",
-    "intro": "Zakaži uvodni poziv ili pošalji poruku. Ako je poziv nezgodan zbog vremenskih zona, email je odlična opcija.",
-    "callText": "Najbolja opcija za brz prvi razgovor i jasne sledeće korake.",
+    "intro": "Zakaži uvodni poziv ili pošalji poruku. Ako je poziv nezgodan zbog vremenskih zona, email je savršena opcija.",
+    "callText": "Najbolje za brz prvi razgovor i jasne sledeće korake.",
     "emailTitle": "Email",
     "emailText": "Koristi direktan email ili formular ispod.",
     "formTitle": "Pošalji upit",
-    "formText": "Otvara se tvoj email klijent sa unapred popunjenim podacima.",
+    "formText": "Otvara se tvoja email aplikacija sa unapred popunjenim podacima.",
     "timezoneNote": "Ako poziv nije praktičan zbog vremenskih zona, email je savršen.",
     "sendEmail": "Pošalji kroz email aplikaciju",
     "fields": {
