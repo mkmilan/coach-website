@@ -149,15 +149,16 @@
     "emailTitle": "Email",
     "emailText": "Use the direct email option or the pre-filled form below.",
     "formTitle": "Send an inquiry",
-    "formText": "This opens your default email app with the details pre-filled.",
+    "formText": "Submit the form below and I will reply by email.",
     "timezoneNote": "If a call isn't feasible due to time zones, email is perfect.",
-    "sendEmail": "Send via email app",
+    "sendInquiry": "Send inquiry",
     "fields": {
       "name": "Name",
       "email": "Email",
       "sport": "Sport",
       "timezone": "Time zone",
       "method": "Preferred contact method",
+      "budget": "How much do you think you can invest per month?",
       "window": "Preferred call windows",
       "message": "Message"
     }

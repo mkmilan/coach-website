@@ -200,7 +200,7 @@ export default function HomePage({ params }) {
 				</div>
 			</section>
 
-			<section className="section section--narrow section--compact">
+			{/* <section className="section section--narrow section--compact">
 				<div className="container resources-preview">
 					<h2>{dict.home.resourcesTitle}</h2>
 					<p>{dict.home.resourcesBody}</p>
@@ -208,7 +208,7 @@ export default function HomePage({ params }) {
 						{dict.common.viewResources}
 					</Link>
 				</div>
-			</section>
+			</section> */}
 
 			<section className="section section--cta section--compact" id="contact">
 				<div className="container cta-box">

@@ -149,15 +149,16 @@
     "emailTitle": "Email",
     "emailText": "Koristi direktan email ili formular ispod.",
     "formTitle": "Pošalji upit",
-    "formText": "Otvara se tvoja email aplikacija sa unapred popunjenim podacima.",
+    "formText": "Pošalji formular ispod i odgovoriću ti emailom.",
     "timezoneNote": "Ako poziv nije praktičan zbog vremenskih zona, email je savršen.",
-    "sendEmail": "Pošalji kroz email aplikaciju",
+    "sendInquiry": "Pošalji upit",
     "fields": {
       "name": "Ime",
       "email": "Email",
       "sport": "Sport",
       "timezone": "Vremenska zona",
       "method": "Preferirani način kontakta",
+      "budget": "Koliko misliš da možeš da izdvojiš mesečno?",
       "window": "Preferirani termini za poziv",
       "message": "Poruka"
     }
