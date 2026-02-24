@@ -2,7 +2,7 @@ import Link from "next/link";
 import { FaPersonBiking, FaPersonRunning, FaPersonSwimming } from "react-icons/fa6";
 import { getDictionary } from "@/i18n/t";
 
-const CALENDLY_URL = "https://calendly.com/YOUR_HANDLE/intro-call";
+const CALENDLY_URL = "https://calendly.com/milanendurancelab/30min";
 
 function HeroImage() {
 	return (

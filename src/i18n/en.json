@@ -151,6 +151,8 @@
     "formTitle": "Send an inquiry",
     "formText": "Submit the form below and I will reply by email.",
     "timezoneNote": "If a call isn't feasible due to time zones, email is perfect.",
+    "submitError": "Message wasn't sent. Please try again.",
+    "sendingInquiry": "Sending...",
     "sendInquiry": "Send inquiry",
     "fields": {
       "name": "Name",
@@ -162,5 +164,11 @@
       "window": "Preferred call windows",
       "message": "Message"
     }
+  },
+  "thankYou": {
+    "title": "Message sent",
+    "body": "Thanks for reaching out. I will review your message and get back to you soon.",
+    "backHome": "Back to home",
+    "backContact": "Back to contact"
   }
 }

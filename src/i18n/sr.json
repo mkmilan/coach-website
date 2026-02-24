@@ -151,6 +151,8 @@
     "formTitle": "Pošalji upit",
     "formText": "Pošalji formular ispod i odgovoriću ti emailom.",
     "timezoneNote": "Ako poziv nije praktičan zbog vremenskih zona, email je savršen.",
+    "submitError": "Poruka nije poslata. Pokušaj ponovo.",
+    "sendingInquiry": "Slanje...",
     "sendInquiry": "Pošalji upit",
     "fields": {
       "name": "Ime",
@@ -162,5 +164,11 @@
       "window": "Preferirani termini za poziv",
       "message": "Poruka"
     }
+  },
+  "thankYou": {
+    "title": "Poruka je poslata",
+    "body": "Hvala na poruci. Pregledaću upit i javiću ti se uskoro.",
+    "backHome": "Nazad na početnu",
+    "backContact": "Nazad na kontakt"
   }
 }

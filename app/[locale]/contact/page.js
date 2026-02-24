@@ -2,7 +2,6 @@ import ContactForm from "@/components/ContactForm";
 import { getDictionary } from "@/i18n/t";
 
 const CALENDLY_URL = "https://calendly.com/milanendurancelab/30min";
-const PLACEHOLDER_EMAIL = "coach@example.com";
 const FORMSPREE_ENDPOINT = "https://formspree.io/f/mrearevw";
 
 export const metadata = {
@@ -27,16 +26,9 @@ export default function ContactPage({ params }) {
 						</a>
 					</article>
 
-					{/* <article className="card">
-						<h2>{dict.contact.emailTitle}</h2>
-						<p>{dict.contact.emailText}</p>
-						<a className="inline-link" href={`mailto:${PLACEHOLDER_EMAIL}`}>
-							{PLACEHOLDER_EMAIL}
-						</a>
-					</article> */}
 				</div>
 
-				<ContactForm dict={dict} formEndpoint={FORMSPREE_ENDPOINT} />
+				<ContactForm dict={dict} formEndpoint={FORMSPREE_ENDPOINT} locale={params.locale} />
 			</div>
 		</section>
 	);

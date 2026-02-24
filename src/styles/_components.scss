@@ -531,9 +531,29 @@
   }
 }
 
+.hp-field {
+  position: absolute !important;
+  left: -9999px !important;
+  width: 1px !important;
+  height: 1px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
 .small-note {
   font-size: 0.9rem;
   color: $color-muted;
+}
+
+.form-error {
+  margin: 0.25rem 0 0;
+  color: #b42318;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.thank-you-card {
+  text-align: center;
 }
 
 .site-footer {
