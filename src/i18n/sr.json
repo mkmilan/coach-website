@@ -5,6 +5,7 @@
     "coaching": "Coaching",
     "resources": "Resursi",
     "contact": "Kontakt",
+    "privacy": "Privatnost",
     "bookCall": "Zakaži uvodni poziv",
     "viewResources": "Pogledaj resurse"
   },
@@ -169,5 +170,62 @@
     "body": "Hvala na poruci. Pregledaću upit i javiću ti se uskoro.",
     "backHome": "Nazad na početnu",
     "backContact": "Nazad na kontakt"
+  },
+  "privacy": {
+    "title": "Politika privatnosti",
+    "lastUpdatedLabel": "Poslednje ažuriranje",
+    "intro": "Ova stranica objašnjava kako se lični podaci obrađuju kada me kontaktiraš ili zakažeš poziv.",
+    "sections": [
+      {
+        "title": "1. Ko je odgovoran za ovaj sajt",
+        "body": "Ovaj sajt vodi Milan Margetic. Najlakše je da me kontaktiraš preko kontakt formulara na sajtu."
+      },
+      {
+        "title": "2. Koje podatke prikupljam",
+        "body": "Kada me kontaktiraš, mogu da prikupim podatke koje sam izabereš da pošalješ, kao što su: ime, email adresa, sport, vremenska zona, željeni način kontakta i sadržaj poruke."
+      },
+      {
+        "title": "3. Zašto koristim ove podatke",
+        "body": "Podatke koristim isključivo da odgovorim na upit, komuniciram sa tobom i (ako želiš) razgovaram o saradnji ili pružim trenerske usluge."
+      },
+      {
+        "title": "4. Pružaoci usluga (kuda podaci idu)",
+        "body": "Poruke poslate preko kontakt formulara mogu se obraditi preko usluge Formspree (prosleđivanje formulara). Ako zakažeš poziv, zakazivanje može biti preko usluge Calendly. Video pozivi mogu biti održani preko usluge Google Meet. Ovi pružaoci usluga obrađuju podatke u skladu sa svojim pravilima privatnosti."
+      },
+      {
+        "title": "5. Koliko dugo čuvam podatke",
+        "body": "Poruke čuvam onoliko koliko je potrebno da odgovorim i nastavim komunikaciju. Ako postaneš klijent, mogu da zadržim relevantnu komunikaciju razumno vreme radi pružanja usluge i administracije. Uvek možeš da zatražiš brisanje."
+      },
+      {
+        "title": "6. Tvoja prava",
+        "body": "U zavisnosti od toga gde se nalaziš (uključujući Evropsku uniju), možeš imati pravo na uvid, ispravku, brisanje ili ograničenje obrade ličnih podataka. Za ostvarivanje prava, kontaktiraj me preko formulara na sajtu."
+      },
+      {
+        "title": "7. Kolačići",
+        "body": "Ovaj sajt ne koristi kolačiće za praćenje i oglašavanje. Ako se to promeni u budućnosti, ova politika će biti ažurirana."
+      },
+      {
+        "title": "8. Pitanja",
+        "body": "Ako imaš pitanja u vezi privatnosti na ovom sajtu, kontaktiraj me preko formulara na sajtu ili na coach@milanendurancelab.com."
+      }
+    ]
+  },
+  "legal": {
+    "title": "Pravne informacije",
+    "intro": "Osnovne informacije o sajtu i kontakt podaci.",
+    "sections": [
+      {
+        "title": "Vlasnik sajta",
+        "body": "Milan Margetic"
+      },
+      {
+        "title": "Kontakt",
+        "body": "Glavni kontakt: kontakt formular na sajtu."
+      },
+      {
+        "title": "Trenerske usluge",
+        "body": "Trenerske usluge su edukativnog karaktera i ne zamenjuju medicinski savet. Ako imaš zdravstveno stanje ili simptome, obrati se kvalifikovanom zdravstvenom radniku."
+      }
+    ]
   }
 }

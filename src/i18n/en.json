@@ -5,6 +5,7 @@
     "coaching": "Coaching",
     "resources": "Resources",
     "contact": "Contact",
+    "privacy": "Privacy",
     "bookCall": "Book intro call",
     "viewResources": "View resources"
   },
@@ -169,5 +170,62 @@
     "body": "Thanks for reaching out. I will review your message and get back to you soon.",
     "backHome": "Back to home",
     "backContact": "Back to contact"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdatedLabel": "Last updated",
+    "intro": "This page explains how personal data is handled when you contact me or book a call.",
+    "sections": [
+      {
+        "title": "1. Who is responsible for this website",
+        "body": "This website is operated by Milan Margetic. The easiest way to contact me is via the contact form on this website."
+      },
+      {
+        "title": "2. What personal data I collect",
+        "body": "If you contact me, I may collect the information you choose to provide, such as: name, email address, sport, time zone, preferred contact method, and your message."
+      },
+      {
+        "title": "3. Why I use this data",
+        "body": "I use this data only to respond to your inquiry, communicate with you, and (if you choose) discuss or provide coaching services."
+      },
+      {
+        "title": "4. Service providers (where the data goes)",
+        "body": "Contact form submissions may be processed by Formspree (form delivery). If you book a call, scheduling may be handled by Calendly. Video calls may be hosted via Google Meet. These providers process personal data according to their own privacy policies."
+      },
+      {
+        "title": "5. How long I keep your data",
+        "body": "I keep messages only as long as needed to respond and follow up. If you become a coaching client, I may keep relevant communication for a reasonable period for service delivery and administration. You can request deletion at any time."
+      },
+      {
+        "title": "6. Your rights",
+        "body": "Depending on your location (including the European Union), you may have rights to access, correct, delete, or restrict the processing of your personal data. To exercise these rights, contact me via the website contact form."
+      },
+      {
+        "title": "7. Cookies",
+        "body": "This website does not use marketing or tracking cookies. If that changes in the future, this policy will be updated."
+      },
+      {
+        "title": "8. Questions",
+        "body": "If you have questions about privacy on this website, contact me via the contact form."
+      }
+    ]
+  },
+  "legal": {
+    "title": "Legal Notice",
+    "intro": "Website information and contact details.",
+    "sections": [
+      {
+        "title": "Operator",
+        "body": "Milan Margetic"
+      },
+      {
+        "title": "Contact",
+        "body": "Primary contact: website contact form."
+      },
+      {
+        "title": "Professional services",
+        "body": "Coaching services are educational and training-related. They do not replace medical advice. If you have a medical condition or symptoms, consult a qualified healthcare professional."
+      }
+    ]
   }
 }

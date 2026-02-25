@@ -8,6 +8,12 @@ export default function SiteFooter({ locale, dict }) {
 	return (
 		<footer className="site-footer">
 			<div className="container site-footer__inner">
+				<div className="site-footer__links">
+					<Link href={localeHref(locale, "")}>{dict.common.home}</Link>
+					{/* <Link href={localeHref(locale, "resources")}>{dict.common.resources}</Link> */}
+					<Link href={localeHref(locale, "contact")}>{dict.common.contact}</Link>
+					<Link href={localeHref(locale, "privacy")}>{dict.common.privacy}</Link>
+				</div>
 				<a
 					className="site-footer__instagram"
 					href={INSTAGRAM_URL}
@@ -17,11 +23,6 @@ export default function SiteFooter({ locale, dict }) {
 				>
 					<FaInstagram />
 				</a>
-				<div className="site-footer__links">
-					<Link href={localeHref(locale, "")}>{dict.common.home}</Link>
-					<Link href={localeHref(locale, "resources")}>{dict.common.resources}</Link>
-					<Link href={localeHref(locale, "contact")}>{dict.common.contact}</Link>
-				</div>
 			</div>
 		</footer>
 	);
