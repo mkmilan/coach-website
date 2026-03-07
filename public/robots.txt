@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Optional: block training crawler while allowing ChatGPT search discovery
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://milanendurancelab.com/sitemap.xml

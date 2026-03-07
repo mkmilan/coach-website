@@ -1,8 +1,18 @@
 import { getDictionary } from "@/i18n/t";
+import { buildPageMetadata, seoContent } from "@/seo/metadata";
+import ResourceLink from "@/components/ResourceLink";
 
-export const metadata = {
-  title: "Resources | Milan Endurance Coaching"
-};
+export function generateMetadata({ params }) {
+  const locale = params.locale === "sr" ? "sr" : "en";
+  const content = seoContent[locale].resources;
+
+  return buildPageMetadata({
+    locale,
+    path: "/resources",
+    title: content.title,
+    description: content.description
+  });
+}
 
 export default function ResourcesPage({ params }) {
   const dict = getDictionary(params.locale);
@@ -21,9 +31,7 @@ export default function ResourcesPage({ params }) {
                   <li key={point}>{point}</li>
                 ))}
               </ul>
-              <a className="inline-link" href={item.href} target="_blank" rel="noreferrer">
-                {dict.resources.openResource}
-              </a>
+              <ResourceLink label={dict.resources.openResource} tooltip={dict.resources.resourceInProgress} />
             </article>
           ))}
         </div>

@@ -1,7 +1,11 @@
 import "@/styles/globals.scss";
 
 export const metadata = {
-  title: "Milan Endurance Coaching",
+  metadataBase: new URL("https://milanendurancelab.com"),
+  title: {
+    default: "Milan Endurance Coaching",
+    template: "%s | Milan Endurance Coaching"
+  },
   description: "Evidence-based endurance coaching for runners, cyclists, and triathletes."
 };
 

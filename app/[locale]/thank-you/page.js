@@ -1,5 +1,19 @@
 import Link from "next/link";
 import { getDictionary } from "@/i18n/t";
+import { buildPageMetadata, seoContent } from "@/seo/metadata";
+
+export function generateMetadata({ params }) {
+  const locale = params.locale === "sr" ? "sr" : "en";
+  const content = seoContent[locale].thankYou;
+
+  return buildPageMetadata({
+    locale,
+    path: "/thank-you",
+    title: content.title,
+    description: content.description,
+    index: false
+  });
+}
 
 export default function ThankYouPage({ params }) {
   const dict = getDictionary(params.locale);

@@ -1,12 +1,21 @@
 import ContactForm from "@/components/ContactForm";
 import { getDictionary } from "@/i18n/t";
+import { buildPageMetadata, seoContent } from "@/seo/metadata";
 
 const CALENDLY_URL = "https://calendly.com/milanendurancelab/30min";
 const FORMSPREE_ENDPOINT = "https://formspree.io/f/mrearevw";
 
-export const metadata = {
-	title: "Contact | Milan Endurance Coaching",
-};
+export function generateMetadata({ params }) {
+	const locale = params.locale === "sr" ? "sr" : "en";
+	const content = seoContent[locale].contact;
+
+	return buildPageMetadata({
+		locale,
+		path: "/contact",
+		title: content.title,
+		description: content.description
+	});
+}
 
 export default function ContactPage({ params }) {
 	const dict = getDictionary(params.locale);

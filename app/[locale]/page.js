@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { FaPersonBiking, FaPersonRunning, FaPersonSwimming } from "react-icons/fa6";
 import { getDictionary } from "@/i18n/t";
+import { buildPageMetadata, seoContent } from "@/seo/metadata";
 
 const CALENDLY_URL = "https://calendly.com/milanendurancelab/30min";
 
@@ -15,6 +16,18 @@ function HeroImage() {
 }
 
 const PANEL_IMAGES = ["/me-card.jpg", "/principle.png", "/online.png"];
+
+export function generateMetadata({ params }) {
+	const locale = params.locale === "sr" ? "sr" : "en";
+	const content = seoContent[locale].home;
+
+	return buildPageMetadata({
+		locale,
+		path: "",
+		title: content.title,
+		description: content.description
+	});
+}
 
 export default function HomePage({ params }) {
 	const { locale } = params;

@@ -1,4 +1,5 @@
 import { getDictionary } from "@/i18n/t";
+import { buildPageMetadata, seoContent } from "@/seo/metadata";
 
 function formatDate(locale) {
   const date = new Date("2026-02-25");
@@ -7,6 +8,18 @@ function formatDate(locale) {
     month: "long",
     day: "numeric"
   }).format(date);
+}
+
+export function generateMetadata({ params }) {
+  const locale = params.locale === "sr" ? "sr" : "en";
+  const content = seoContent[locale].privacy;
+
+  return buildPageMetadata({
+    locale,
+    path: "/privacy",
+    title: content.title,
+    description: content.description
+  });
 }
 
 export default function PrivacyPage({ params }) {
