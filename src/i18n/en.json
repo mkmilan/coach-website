@@ -195,7 +195,8 @@
         "answer": "You answer a few short questions first. That gives me enough context to prepare and makes the call more useful for both of us."
       }
     ],
-    "bottomCtaButton": "Start here"
+    "bottomCtaButton": "Start here",
+    "headerCta": "Start coaching"
   },
   "resources": {
     "title": "Free resources",
