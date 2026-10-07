@@ -10,10 +10,10 @@
     "viewResources": "Pogledaj resurse"
   },
   "home": {
-    "heroEyebrow": "Online endurance coaching",
-    "heroTitle": "Prestani da nagađaš. Počni da napreduješ.",
-    "heroSubtitle": "Ako ti je trening haotičan, nekonzistentan ili si u zastoju—napravićemo jednostavnu strukturu koja se uklapa u tvoj život i vodi te napred.",
-    "heroSecondaryCta": "Kako coaching funkcioniše",
+    "heroEyebrow": "Coaching za trčanje i biciklizam",
+    "heroTitle": "Jednostavniji coaching za trčanje i biciklizam",
+    "heroSubtitle": "Personalizovan coaching, jasan trening i fleksibilnost za realan život — da možeš da napreduješ bez nepotrebnog komplikovanja.",
+    "heroSecondaryCta": "Zakaži besplatan uvodni poziv",
     "heroCred": "Trkači • Biciklisti • Triatlonci • Proces zasnovan na nauci • Ograničen broj sportista = više pažnje",
     "optimizeTitle": "Šta popravljamo (bez komplikovanja)",
     "optimizeItems": [
@@ -21,8 +21,8 @@
       "Aerobnu bazu i izdržljivost da bezbedno podneseš više treninga",
       "Razvoj praga i bolja kontrola tempa/power-a — bez stalnog 'gaženja' i previše teških treninga"
     ],
-    "aboutTitle": "O Milanu",
-    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach. Radim sa trkačima, biciklistima i triatloncima sa jednim ciljem: da tvoj trud pretvorimo u konzistentan napredak. Koristimo podatke (tempo, power, puls, laktat kada ga ima), ali odluke uvek imaju kontekst i RPE—da plan bude realan, ne samo 'na papiru'.",
+    "aboutTitle": "Coach koji razume sportistu.",
+    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach fokusiran na trčanje i biciklizam. Moj pristup kombinuje fiziologiju, podatke sa treninga, RPE i feedback sportiste. Brojevi nam pomažu da donosimo bolje odluke, ali sportista je uvek na prvom mestu.",
     "aboutBullets": [
       "Sertifikat: UESCA Triathlon Coach",
       "Alati: Intervals.icu + praktična analiza treninga",
@@ -88,25 +88,114 @@
     ],
     "developingTitle": "Zašto rad sa mnom sada",
     "developingBody": "Radim sa ograničenim brojem sportista, kako bih svakome mogao da posvetim dovoljno pažnje. To znači promišljeno planiranje, detaljan pregled treninga i brze prilagodbe kada se raspored promeni. Kontinuirano se usavršavam kroz edukacije i radionice (uključujući metaboličko profilisanje), a pristup mi je praktičan i usmeren na sportistu. Bez preuveličavanja — samo jasan proces i dosledan napredak.",
-    "processTitle": "Kako coaching funkcioniše",
+    "processTitle": "Od prvog razgovora do napretka — u četiri jednostavna koraka.",
     "processSteps": [
       {
-        "title": "Uvodni poziv (30-60 min)",
-        "body": "Pričamo o cilju, istoriji treninga, ograničenjima i šta je za tebe uspeh."
+        "title": "Reci mi o sebi",
+        "body": "Podeli istoriju treninga, ciljeve, trenutni trening i vreme koje imaš."
       },
       {
-        "title": "Setup nedelja",
-        "body": "Uskladimo raspored, zone/testiranje po potrebi i krenemo sa jasnom strukturom."
+        "title": "Dobijaš plan",
+        "body": "Pravim personalizovanu strukturu treninga prema tvom životu i ciljevima."
       },
       {
-        "title": "Treniraj i iteriraj",
-        "body": "Nedeljne povratne informacije, pametna progresija i prilagođavanja prema tvojoj reakciji."
+        "title": "Treniraš",
+        "body": "Pratiš plan sa jasnom svrhom svakog ključnog treninga i podrškom."
+      },
+      {
+        "title": "Prilagođavamo i napredujemo",
+        "body": "Pregledamo, učimo i menjamo plan da bi napredak bio održiv."
       }
     ],
     "resourcesTitle": "Besplatni resursi",
     "resourcesBody": "Praktične sports science smernice koje možeš odmah da primeniš—bez praznih priča.",
-    "bottomCtaTitle": "Zakaži uvodni poziv",
-    "bottomCtaBody": "Reci mi cilj i raspored. Ja ću ti reći kako bih to strukturirao—i da li smo dobar fit."
+    "bottomCtaTitle": "Spreman za jasniji trening?",
+    "bottomCtaBody": "Odgovori prvo na nekoliko kratkih pitanja. Ako smo dobar fit, odmah nastavljaš na stranicu za zakazivanje uvodnog poziva.",
+    "heroPrimaryCta": "Pogledaj opcije coachinga",
+    "valueTitle": "Ne treba ti više treninga.",
+    "valueTitleAccent": "Treba ti pravi trening.",
+    "benefits": [
+      {
+        "title": "Prilagođeno tebi",
+        "body": "Trening prema tvojim ciljevima, istoriji, rasporedu i trenutnoj spremnosti."
+      },
+      {
+        "title": "Uklopljeno u tvoj život",
+        "body": "Plan koji radi sa vremenom koje stvarno imaš na raspolaganju."
+      },
+      {
+        "title": "Stvaran napredak",
+        "body": "Koristimo podatke i tvoj feedback da vidimo šta radi i šta treba promeniti."
+      },
+      {
+        "title": "Coach uz tebe",
+        "body": "Jasne smernice kada trening, oporavak ili život ne idu tačno po planu."
+      }
+    ],
+    "pricingEyebrow": "Opcije coachinga",
+    "pricingTitle": "Jednostavno. Transparentno. Za realan život.",
+    "pricingIntro": "Dva nivoa podrške. Ista coaching filozofija. Izaberi koliko želiš da budem uključen u tvoj trening.",
+    "featuredPlan": "Bliži coaching",
+    "month": "mesečno",
+    "plans": [
+      {
+        "name": "Essential",
+        "summary": "Za sportiste koji žele individualni plan i stručno usmerenje, ali većinu treninga vode samostalno.",
+        "price": "89",
+        "features": [
+          "Personalizovan plan za trčanje ili bicikl",
+          "Plan prema tvom rasporedu",
+          "Mesečni pregled treninga",
+          "Izmene plana po potrebi",
+          "Podrška porukama za pitanja o treningu"
+        ],
+        "cta": "Izaberi Essential"
+      },
+      {
+        "name": "Personal Coaching",
+        "summary": "Za sportiste koji žele stalniji feedback, bliže praćenje i češće prilagodbe.",
+        "price": "189",
+        "features": [
+          "Sve iz Essential paketa",
+          "Nedeljni pregled treninga",
+          "Feedback na ključne sesije",
+          "Kontinuirane izmene plana",
+          "Strategija za trku i pacing",
+          "Redovna komunikacija sa coachom"
+        ],
+        "cta": "Izaberi Personal Coaching"
+      }
+    ],
+    "processEyebrow": "Kako funkcioniše",
+    "aboutEyebrow": "O Milanu",
+    "aboutImageAlt": "Milan, endurance coach",
+    "aboutTrust": [
+      "UESCA Certified Coach",
+      "Fokus na trčanje i biciklizam",
+      "Data-informed pristup",
+      "Athlete-first pristup"
+    ],
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Nekoliko korisnih odgovora pre početka",
+    "faq": [
+      {
+        "question": "Da li mi treba power meter, GPS sat ili merač pulsa?",
+        "answer": "Ne. Mogu biti korisni, ali nisu obavezni. Možemo kvalitetno raditi koristeći tempo, RPE, vreme i podatke koje već imaš."
+      },
+      {
+        "question": "Da li je coaching za početnike ili iskusne sportiste?",
+        "answer": "Za oba. Plan se pravi prema tvom trenutnom nivou, istoriji treninga, ciljevima i raspoloživom vremenu."
+      },
+      {
+        "question": "Da li radiš triatlon coaching?",
+        "answer": "Trenutno je ova usluga fokusirana na trčanje i biciklizam. Ne nudim kompletan swim ili triatlon coaching kroz ova dva paketa."
+      },
+      {
+        "question": "Šta se dešava pre uvodnog poziva?",
+        "answer": "Prvo odgovoriš na nekoliko kratkih pitanja. Tako dobijam dovoljno konteksta da se pripremim i da razgovor bude korisniji."
+      }
+    ],
+    "bottomCtaButton": "Počni ovde"
   },
   "resources": {
     "title": "Besplatni resursi",
@@ -228,5 +317,39 @@
         "body": "Trenerske usluge su edukativnog karaktera i ne zamenjuju medicinski savet. Ako imaš zdravstveno stanje ili simptome, obrati se kvalifikovanom zdravstvenom radniku."
       }
     ]
+  },
+  "intake": {
+    "eyebrow": "Pre poziva",
+    "title": "Prvo nekoliko kratkih pitanja.",
+    "intro": "Treba oko minut i daje mi dovoljno konteksta da se pripremim pre razgovora.",
+    "select": "Izaberi",
+    "fields": {
+      "age": "Godine",
+      "gender": "Pol",
+      "sport": "Sport",
+      "experience": "Iskustvo u treningu",
+      "hours": "Nedeljni sati treninga",
+      "goal": "Glavni cilj",
+      "email": "Email"
+    },
+    "options": {
+      "male": "Muško",
+      "female": "Žensko",
+      "preferNot": "Ne želim da kažem",
+      "running": "Trčanje",
+      "cycling": "Biciklizam",
+      "lessThanOne": "Manje od 1 godine",
+      "oneToThree": "1–3 godine",
+      "threeToFive": "3–5 godina",
+      "fivePlus": "5+ godina",
+      "underFour": "Manje od 4 sata",
+      "fourToSeven": "4–7 sati",
+      "eightToEleven": "8–11 sati",
+      "twelvePlus": "12+ sati"
+    },
+    "goalPlaceholder": "npr. prvi polumaraton, brži 10K, veći FTP",
+    "submit": "Nastavi na zakazivanje",
+    "sending": "Slanje...",
+    "error": "Došlo je do greške. Pokušaj ponovo."
   }
 }
