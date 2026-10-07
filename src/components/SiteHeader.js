@@ -45,7 +45,7 @@ export default function SiteHeader({ locale, dict }) {
             <Link href={swapLocale(pathname, locale, "sr")}>SR</Link>
           </div>
           <Link className="btn btn--primary btn--small" href={localeHref(locale, "") + "#intake"}>
-            {dict.common.bookCall}
+            {dict.home.headerCta}
           </Link>
           <button
             type="button"
@@ -61,7 +61,7 @@ export default function SiteHeader({ locale, dict }) {
       </div>
 
       <div id="mobile-nav" className={`mobile-menu ${menuOpen ? "is-open" : ""}`}>
-        <nav aria-label="Mobile navigation" className="mobile-menu__links">
+        <nav aria-label="Mobile navigation" className="mobile-menu__links">\n          <div className="lang-switch lang-switch--mobile">\n            <Link href={swapLocale(pathname, locale, "en")} onClick={closeMenu}>EN</Link>\n            <span>/</span>\n            <Link href={swapLocale(pathname, locale, "sr")} onClick={closeMenu}>SR</Link>\n          </div>
           {navLinks.map((link) => (
             <Link key={link.href} href={link.href} onClick={closeMenu}>{link.label}</Link>
           ))}
