@@ -1152,3 +1152,45 @@
 
   .btn { gap: 0.55rem; }
 }
+
+
+/* Mobile header polish */
+@media (max-width: 919px) {
+  .site-header__actions {
+    gap: 0.5rem;
+
+    > .lang-switch {
+      display: none;
+    }
+
+    .btn {
+      display: inline-flex;
+      white-space: nowrap;
+      padding: 0.5rem 0.7rem;
+      font-size: 0.78rem;
+    }
+  }
+
+  .logo--wordmark {
+    font-size: 0.92rem;
+  }
+
+  .lang-switch--mobile {
+    display: inline-flex;
+    margin-bottom: 0.25rem;
+  }
+}
+
+@media (max-width: 430px) {
+  .site-header__inner {
+    gap: 0.45rem;
+  }
+
+  .site-header__actions .btn {
+    padding-inline: 0.6rem;
+  }
+
+  .menu-toggle {
+    width: 36px;
+  }
+}
