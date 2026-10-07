@@ -81,9 +81,9 @@ export function buildPageMetadata({
 export const seoContent = {
   en: {
     home: {
-      title: "Online Endurance Coaching for Runners, Cyclists, and Triathletes",
+      title: "Online Running & Cycling Coaching | Milan Endurance Lab",
       description:
-        "Evidence-based online coaching with clear structure, practical feedback, and long-term progress for runners, cyclists, and triathletes."
+        "Personalized online running and cycling coaching with clear structure, practical feedback, and training built around real life."
     },
     resources: {
       title: "Resources for Endurance Athletes",
@@ -108,9 +108,9 @@ export const seoContent = {
   },
   sr: {
     home: {
-      title: "Online Endurance Coaching za trkače, bicikliste i triatlonce",
+      title: "Online Coaching za trčanje i biciklizam | Milan Endurance Lab",
       description:
-        "Coaching zasnovan na nauci, jasna struktura treninga i praktične povratne informacije za dugoročan napredak."
+        "Personalizovan online coaching za trčanje i biciklizam sa jasnom strukturom, praktičnim feedbackom i treningom uklopljenim u realan život."
     },
     resources: {
       title: "Resursi za sportiste izdržljivosti",
