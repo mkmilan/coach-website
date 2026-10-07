@@ -195,7 +195,8 @@
         "answer": "Prvo odgovoriš na nekoliko kratkih pitanja. Tako dobijam dovoljno konteksta da se pripremim i da razgovor bude korisniji."
       }
     ],
-    "bottomCtaButton": "Počni ovde"
+    "bottomCtaButton": "Počni ovde",
+    "headerCta": "Počni coaching"
   },
   "resources": {
     "title": "Besplatni resursi",
