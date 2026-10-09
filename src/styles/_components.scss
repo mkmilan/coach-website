@@ -715,11 +715,11 @@
   inset: 0;
   background: linear-gradient(
     90deg,
-    rgba(247, 250, 253, 0.96) 0%,
-    rgba(247, 250, 253, 0.88) 30%,
-    rgba(247, 250, 253, 0.55) 48%,
-    rgba(247, 250, 253, 0.12) 70%,
-    rgba(247, 250, 253, 0.04) 100%
+    rgba(247, 250, 253, 0.93) 0%,
+    rgba(247, 250, 253, 0.82) 30%,
+    rgba(247, 250, 253, 0.44) 48%,
+    rgba(247, 250, 253, 0.08) 70%,
+    rgba(247, 250, 253, 0.02) 100%
   );
 }
 
@@ -730,7 +730,7 @@
 
 .new-hero__copy {
   max-width: 640px;
-  padding: 5.5rem 0;
+  padding: 4.8rem 0;
 
   .eyebrow {
     color: #0870df;
@@ -782,17 +782,17 @@
   .new-hero__overlay {
     background: linear-gradient(
       180deg,
-      rgba(247, 250, 253, 0.98) 0%,
-      rgba(247, 250, 253, 0.94) 40%,
-      rgba(247, 250, 253, 0.65) 58%,
-      rgba(247, 250, 253, 0.14) 78%,
-      rgba(247, 250, 253, 0.04) 100%
+      rgba(247, 250, 253, 0.95) 0%,
+      rgba(247, 250, 253, 0.88) 40%,
+      rgba(247, 250, 253, 0.55) 58%,
+      rgba(247, 250, 253, 0.10) 78%,
+      rgba(247, 250, 253, 0.02) 100%
     );
   }
 
   .new-hero__copy {
     max-width: 100%;
-    padding: 3.5rem 0 14rem;
+    padding: 3rem 0 12.5rem;
 
     h1 {
       max-width: 9ch;
@@ -815,7 +815,7 @@
   }
 
   .new-hero__copy {
-    padding: 2.6rem 0 13.5rem;
+    padding: 2.4rem 0 12.5rem;
 
     h1 {
       max-width: 8.5ch;
@@ -1272,4 +1272,124 @@
 
 .final-cta {
   background-position: center 58%;
+}
+
+
+/* Conversion and trust polish */
+.new-hero__trust {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 1rem;
+  padding: 0.42rem 0.7rem;
+  border: 1px solid rgba(13, 35, 64, 0.10);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.68);
+  color: #29435f;
+  font-size: 0.84rem;
+  font-weight: 700;
+  backdrop-filter: blur(6px);
+
+  img {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+    flex: 0 0 auto;
+  }
+}
+
+.pricing-card__difference {
+  margin: -0.2rem 0 1rem;
+  color: #0d5fc0;
+  font-weight: 800;
+  font-size: 1rem;
+}
+
+.pricing-card--featured {
+  box-shadow: 0 16px 38px rgba(8, 112, 223, 0.12);
+  transform: translateY(-2px);
+}
+
+.about-layout__visual {
+  position: relative;
+  width: fit-content;
+  max-width: 520px;
+}
+
+.about-layout__badge {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  max-width: calc(100% - 1.6rem);
+  padding: 0.48rem 0.7rem;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 8px 22px rgba(14, 38, 66, 0.12);
+  backdrop-filter: blur(8px);
+
+  img {
+    width: 34px;
+    height: 34px;
+    object-fit: contain;
+    flex: 0 0 auto;
+  }
+
+  span {
+    font-size: 0.78rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #183653;
+  }
+}
+
+.intake-form {
+  gap: 0.78rem;
+  padding: 0.9rem;
+}
+
+.intake-form__time {
+  margin: 0;
+  color: #35536f;
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.intake-form__reassurance {
+  margin: -0.15rem 0 0;
+  color: #66798b;
+  font-size: 0.82rem;
+  text-align: center;
+}
+
+@media (max-width: 560px) {
+  .new-hero__trust {
+    max-width: 100%;
+    border-radius: 12px;
+    align-items: flex-start;
+    line-height: 1.35;
+  }
+
+  .pricing-card--featured {
+    transform: none;
+  }
+
+  .about-layout__badge {
+    right: 0.6rem;
+    bottom: 0.6rem;
+  }
+
+  .value-section,
+  .pricing-section,
+  .process-section,
+  .intake-section,
+  .about-section,
+  .faq-section,
+  .final-cta {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
 }
