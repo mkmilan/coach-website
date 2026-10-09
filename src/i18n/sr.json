@@ -22,7 +22,7 @@
       "Razvoj praga i bolja kontrola tempa/power-a — bez stalnog 'gaženja' i previše teških treninga"
     ],
     "aboutTitle": "Coach koji razume sportistu.",
-    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach fokusiran na trčanje i biciklizam. Moj pristup kombinuje fiziologiju, podatke sa treninga, RPE i feedback sportiste. Brojevi nam pomažu da donosimo bolje odluke, ali sportista je uvek na prvom mestu.",
+    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach fokusiran na trčanje i biciklizam. Kombinujem fiziologiju, podatke sa treninga, RPE i feedback sportiste kako bismo donosili praktične odluke prilagođene osobi koja trenira.",
     "aboutBullets": [
       "Sertifikat: UESCA Triathlon Coach",
       "Alati: Intervals.icu + praktična analiza treninga",
@@ -149,7 +149,8 @@
           "Izmene plana po potrebi",
           "Podrška porukama za pitanja o treningu"
         ],
-        "cta": "Izaberi Essential"
+        "cta": "Izaberi Essential",
+        "difference": "Ja pravim tvoj trening."
       },
       {
         "name": "Personal Coaching",
@@ -163,7 +164,8 @@
           "Strategija za trku i pacing",
           "Redovna komunikacija sa coachom"
         ],
-        "cta": "Izaberi Personal Coaching"
+        "cta": "Izaberi Personal Coaching",
+        "difference": "Aktivno vodim tvoj trening."
       }
     ],
     "processEyebrow": "Kako funkcioniše",
@@ -196,7 +198,10 @@
       }
     ],
     "bottomCtaButton": "Počni ovde",
-    "headerCta": "Počni coaching"
+    "headerCta": "Počni coaching",
+    "heroTrustLabel": "Kredibilitet coacha",
+    "heroTrust": "UESCA Certified Coach · Trčanje i biciklizam · Athlete-first, data-informed",
+    "aboutBadge": "UESCA Certified Triathlon Coach"
   },
   "resources": {
     "title": "Besplatni resursi",
@@ -351,6 +356,8 @@
     "goalPlaceholder": "npr. prvi polumaraton, brži 10K, veći FTP",
     "submit": "Nastavi na zakazivanje",
     "sending": "Slanje...",
-    "error": "Došlo je do greške. Pokušaj ponovo."
+    "error": "Došlo je do greške. Pokušaj ponovo.",
+    "timeNote": "Traje oko 1 minut.",
+    "reassurance": "Bez obaveze. Poziv služi samo da vidimo da li smo dobar fit."
   }
 }
