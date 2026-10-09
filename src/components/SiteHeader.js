@@ -61,12 +61,17 @@ export default function SiteHeader({ locale, dict }) {
       </div>
 
       <div id="mobile-nav" className={`mobile-menu ${menuOpen ? "is-open" : ""}`}>
-        <nav aria-label="Mobile navigation" className="mobile-menu__links">\n          <div className="lang-switch lang-switch--mobile">\n            <Link href={swapLocale(pathname, locale, "en")} onClick={closeMenu}>EN</Link>\n            <span>/</span>\n            <Link href={swapLocale(pathname, locale, "sr")} onClick={closeMenu}>SR</Link>\n          </div>
+        <nav aria-label="Mobile navigation" className="mobile-menu__links">
+          <div className="lang-switch lang-switch--mobile">
+            <Link href={swapLocale(pathname, locale, "en")} onClick={closeMenu}>EN</Link>
+            <span>/</span>
+            <Link href={swapLocale(pathname, locale, "sr")} onClick={closeMenu}>SR</Link>
+          </div>
           {navLinks.map((link) => (
             <Link key={link.href} href={link.href} onClick={closeMenu}>{link.label}</Link>
           ))}
           <Link className="btn btn--primary" href={localeHref(locale, "") + "#intake"} onClick={closeMenu}>
-            {dict.common.bookCall}
+            {dict.home.headerCta}
           </Link>
         </nav>
       </div>
