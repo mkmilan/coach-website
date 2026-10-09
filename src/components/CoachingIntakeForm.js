@@ -101,9 +101,13 @@ export default function CoachingIntakeForm({ dict }) {
 
       {status === "error" ? <p className="form-error intake-form__wide">{dict.intake.error}</p> : null}
 
+      <p className="intake-form__time intake-form__wide">{dict.intake.timeNote}</p>
+
       <button type="submit" className="btn btn--primary intake-form__submit intake-form__wide" disabled={status === "sending"}>
         {status === "sending" ? dict.intake.sending : dict.intake.submit}
       </button>
+
+      <p className="intake-form__reassurance intake-form__wide">{dict.intake.reassurance}</p>
     </form>
   );
 }
