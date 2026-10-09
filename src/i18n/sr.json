@@ -2,7 +2,7 @@
   "common": {
     "home": "Početna",
     "about": "O meni",
-    "coaching": "Coaching",
+    "coaching": "Trenerski rad",
     "resources": "Resursi",
     "contact": "Kontakt",
     "privacy": "Privatnost",
@@ -10,7 +10,7 @@
     "viewResources": "Pogledaj resurse"
   },
   "home": {
-    "heroEyebrow": "Coaching za trčanje i biciklizam",
+    "heroEyebrow": "Trenerski rad za trčanje i biciklizam",
     "heroTitle": "Jednostavniji coaching za trčanje i biciklizam",
     "heroSubtitle": "Personalizovan coaching, jasan trening i fleksibilnost za realan život — da možeš da napreduješ bez nepotrebnog komplikovanja.",
     "heroSecondaryCta": "Zakaži besplatan uvodni poziv",
@@ -132,15 +132,15 @@
         "body": "Jasne smernice kada trening, oporavak ili život ne idu tačno po planu."
       }
     ],
-    "pricingEyebrow": "Opcije coachinga",
+    "pricingEyebrow": "Opcije saradnje",
     "pricingTitle": "Jednostavno. Transparentno. Za realan život.",
     "pricingIntro": "Dva nivoa podrške. Ista coaching filozofija. Izaberi koliko želiš da budem uključen u tvoj trening.",
-    "featuredPlan": "Bliži coaching",
+    "featuredPlan": "Bliže vođenje",
     "month": "mesečno",
     "plans": [
       {
-        "name": "Essential",
-        "summary": "Za sportiste koji žele individualni plan i stručno usmerenje, ali većinu treninga vode samostalno.",
+        "name": "Osnovni plan",
+        "summary": "Za sportiste koji žele individualan plan i stručno usmerenje, ali većinu treninga sprovode samostalno.",
         "price": "89",
         "features": [
           "Personalizovan plan za trčanje ili bicikl",
@@ -149,12 +149,12 @@
           "Izmene plana po potrebi",
           "Podrška porukama za pitanja o treningu"
         ],
-        "cta": "Izaberi Essential",
-        "difference": "Ja pravim tvoj trening."
+        "cta": "Izaberi osnovni plan",
+        "difference": "Ja pravim tvoj plan treninga."
       },
       {
-        "name": "Personal Coaching",
-        "summary": "Za sportiste koji žele stalniji feedback, bliže praćenje i češće prilagodbe.",
+        "name": "Individualno vođenje",
+        "summary": "Za sportiste koji žele redovan feedback, bliže praćenje i češće prilagođavanje treninga.",
         "price": "189",
         "features": [
           "Sve iz Essential paketa",
@@ -164,18 +164,18 @@
           "Strategija za trku i pacing",
           "Redovna komunikacija sa coachom"
         ],
-        "cta": "Izaberi Personal Coaching",
+        "cta": "Izaberi individualno vođenje",
         "difference": "Aktivno vodim tvoj trening."
       }
     ],
-    "processEyebrow": "Kako funkcioniše",
+    "processEyebrow": "Kako funkcioniše saradnja",
     "aboutEyebrow": "O Milanu",
     "aboutImageAlt": "Milan, endurance coach",
     "aboutTrust": [
-      "UESCA Certified Coach",
+      "UESCA sertifikovan trener",
       "Fokus na trčanje i biciklizam",
-      "Data-informed pristup",
-      "Athlete-first pristup"
+      "Pristup zasnovan na podacima",
+      "Sportista na prvom mestu"
     ],
     "faqEyebrow": "FAQ",
     "faqTitle": "Nekoliko korisnih odgovora pre početka",
@@ -189,8 +189,8 @@
         "answer": "Za oba. Plan se pravi prema tvom trenutnom nivou, istoriji treninga, ciljevima i raspoloživom vremenu."
       },
       {
-        "question": "Da li radiš triatlon coaching?",
-        "answer": "Trenutno je ova usluga fokusirana na trčanje i biciklizam. Ne nudim kompletan swim ili triatlon coaching kroz ova dva paketa."
+        "question": "Da li radiš sa triatloncima?",
+        "answer": "Trenutno je ova usluga fokusirana na trčanje i biciklizam. Ne nudim kompletno vođenje plivanja ili celog triatlonskog treninga kroz ova dva paketa."
       },
       {
         "question": "Šta se dešava pre uvodnog poziva?",
@@ -198,9 +198,9 @@
       }
     ],
     "bottomCtaButton": "Počni ovde",
-    "headerCta": "Počni coaching",
+    "headerCta": "Počni saradnju",
     "heroTrustLabel": "Kredibilitet coacha",
-    "heroTrust": "UESCA Certified Coach · Trčanje i biciklizam · Athlete-first, data-informed",
+    "heroTrust": "UESCA sertifikovan trener · Trčanje i biciklizam · Sportista na prvom mestu",
     "aboutBadge": "UESCA Certified Triathlon Coach"
   },
   "resources": {
@@ -358,6 +358,6 @@
     "sending": "Slanje...",
     "error": "Došlo je do greške. Pokušaj ponovo.",
     "timeNote": "Traje oko 1 minut.",
-    "reassurance": "Bez obaveze. Poziv služi samo da vidimo da li smo dobar fit."
+    "reassurance": "Bez obaveze. Poziv služi samo da vidimo da li nam saradnja odgovara."
   }
 }
