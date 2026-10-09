@@ -1,6 +1,6 @@
 const SITE_URL = "https://milanendurancelab.com";
 const SITE_NAME = "Milan Endurance Coaching";
-const DEFAULT_OG_IMAGE = "/hero_desktop.png";
+const DEFAULT_OG_IMAGE = "/hero-coaching.jpg";
 const LOCALES = ["en", "sr"];
 
 function getPathSuffix(path) {
