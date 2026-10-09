@@ -1131,7 +1131,7 @@
 
 .final-cta {
   background: linear-gradient(180deg, rgba(238, 246, 255, 0.9), rgba(226, 239, 252, 0.94)),
-    url("/principle.png") center/cover no-repeat;
+    url("/coaching-landscape.jpg") center/cover no-repeat;
 }
 
 .final-cta__box {
@@ -1193,4 +1193,43 @@
   .menu-toggle {
     width: 36px;
   }
+}
+
+
+/* New homepage imagery */
+.new-hero__image {
+  object-position: 68% center;
+}
+
+@media (max-width: 899px) {
+  .new-hero__image-wrap {
+    min-height: 340px;
+  }
+
+  .new-hero__image {
+    object-position: 71% center;
+  }
+}
+
+@media (max-width: 560px) {
+  .new-hero__copy {
+    padding-top: 2.8rem;
+  }
+
+  .new-hero__image-wrap {
+    min-height: 300px;
+    border-radius: 0;
+  }
+
+  .new-hero__image {
+    object-position: 73% center;
+  }
+}
+
+.intake-layout__image img {
+  object-position: center;
+}
+
+.final-cta {
+  background-position: center 58%;
 }
