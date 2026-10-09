@@ -36,7 +36,9 @@ export default function HomePage({ params }) {
   return (
     <>
       <section className="new-hero">
-        <div className="container new-hero__grid">
+        <img className="new-hero__bg" src="/hero-coaching.jpg" alt="" aria-hidden="true" />
+        <div className="new-hero__overlay" aria-hidden="true" />
+        <div className="container new-hero__content">
           <div className="new-hero__copy">
             <p className="eyebrow">{dict.home.heroEyebrow}</p>
             <h1>{dict.home.heroTitle}</h1>
@@ -45,13 +47,10 @@ export default function HomePage({ params }) {
               <Link className="btn btn--primary" href={`/${locale}#pricing`}>
                 {dict.home.heroPrimaryCta} <FaArrowRight aria-hidden="true" />
               </Link>
-              <Link className="btn btn--secondary" href={`/${locale}#intake`}>
+              <Link className="btn btn--secondary new-hero__secondary" href={`/${locale}#intake`}>
                 {dict.home.heroSecondaryCta}
               </Link>
             </div>
-          </div>
-          <div className="new-hero__image-wrap" aria-hidden="true">
-            <img className="new-hero__image" src="/hero-coaching.jpg" alt="" />
           </div>
         </div>
       </section>
