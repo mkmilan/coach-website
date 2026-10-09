@@ -11,8 +11,8 @@
   },
   "home": {
     "heroEyebrow": "Trenerski rad za trčanje i biciklizam",
-    "heroTitle": "Jednostavniji coaching za trčanje i biciklizam",
-    "heroSubtitle": "Personalizovan coaching, jasan trening i fleksibilnost za realan život — da možeš da napreduješ bez nepotrebnog komplikovanja.",
+    "heroTitle": "Jednostavniji trenerski rad za trčanje i biciklizam",
+    "heroSubtitle": "Personalizovan plan, jasne smernice i fleksibilnost za realan život — da možeš da napreduješ bez nepotrebnog komplikovanja.",
     "heroSecondaryCta": "Zakaži besplatan uvodni poziv",
     "heroCred": "Trkači • Biciklisti • Triatlonci • Proces zasnovan na nauci • Ograničen broj sportista = više pažnje",
     "optimizeTitle": "Šta popravljamo (bez komplikovanja)",
@@ -21,12 +21,12 @@
       "Aerobnu bazu i izdržljivost da bezbedno podneseš više treninga",
       "Razvoj praga i bolja kontrola tempa/power-a — bez stalnog 'gaženja' i previše teških treninga"
     ],
-    "aboutTitle": "Coach koji razume sportistu.",
-    "aboutBody": "Ja sam Milan, UESCA Certified Triathlon Coach fokusiran na trčanje i biciklizam. Kombinujem fiziologiju, podatke sa treninga, RPE i feedback sportiste kako bismo donosili praktične odluke prilagođene osobi koja trenira.",
+    "aboutTitle": "Trener koji razume sportistu.",
+    "aboutBody": "Ja sam Milan, UESCA sertifikovani trener za triatlon, fokusiran na trčanje i biciklizam. Kombinujem fiziologiju, podatke sa treninga, RPE i povratne informacije sportiste kako bismo donosili praktične odluke prilagođene osobi koja trenira.",
     "aboutBullets": [
-      "Sertifikat: UESCA Triathlon Coach",
+      "Sertifikat: UESCA trener za triatlon",
       "Alati: Intervals.icu + praktična analiza treninga",
-      "Pristup: individualizacija, progresivno opterećenje, poštovanje oporavka"
+      "Pristup: individualizacija, progresivno opterećenje i poštovanje oporavka"
     ],
     "principlesTitle": "Kako radim",
     "principles": [
@@ -55,36 +55,36 @@
         "body": "Objašnjavam 'zašto' da dobiješ sigurnost i kontrolu."
       }
     ],
-    "offerTitle": "1:1 Online Coaching",
-    "offerBody": "Personalizovan plan + stalne povratne informacije—oko tvojih ciljeva, tvog rasporeda i toga kako reaguješ iz nedelje u nedelju.",
+    "offerTitle": "Individualni online trenerski rad",
+    "offerBody": "Personalizovan plan treninga i stalne povratne informacije — prema tvojim ciljevima, rasporedu i načinu na koji reaguješ iz nedelje u nedelju.",
     "offerIncludedTitle": "Šta je uključeno",
     "offerItems": [
-      "Nedeljni plan treninga (trčanje / bicikl; triatlon po potrebi)",
-      "Povratne informacije i prilagođavanja na osnovu treninga + RPE",
-      "Analiza ključnih sesija i praćenje trendova (tempo/power/puls)",
-      "Mesečna provera napretka i sledeći koraci",
+      "Nedeljni plan treninga za trčanje ili biciklizam",
+      "Povratne informacije i prilagođavanja na osnovu treninga i RPE-a",
+      "Analiza ključnih treninga i praćenje trendova (tempo/snaga/puls)",
+      "Mesečna provera napretka i planiranje narednih koraka",
       "Osnove ishrane za duge treninge i dan trke",
-      "Podrška porukama (odgovor u roku 24h)"
+      "Podrška porukama (odgovor u roku od 24 h)"
     ],
-    "auditTitle": "Training Audit (jednokratno)",
+    "auditTitle": "Analiza treninga (jednokratno)",
     "auditItems": [
       "Analiza poslednjih 4–8 nedelja treninga",
       "Najveći limiter + najjednostavniji koraci za popravku",
       "Jasna struktura za naredne 2 nedelje"
     ],
     "fitTitle": "Za koga je ovo",
-    "fitYesTitle": "Odličan fit",
+    "fitYesTitle": "Dobar izbor",
     "fitYes": [
       "Trkači, biciklisti i triatlonci koji žele jasnu strukturu",
       "Sportisti kojima znači povratne informacije i iskrena provera napretka",
       "Ljudi koji žele da razumeju svrhu treninga",
       "Zaposleni koji uklapaju trening u realan život"
     ],
-    "fitNoTitle": "Nije dobar fit",
+    "fitNoTitle": "Nije za tebe ako",
     "fitNo": [
-      "Ako tražiš quick hacks i stalno jak intenzitet",
-      "Ako ne želiš komunikaciju ili ne poštuješ oporavak",
-      "Ako želiš generički plan bez povratne informacije-a"
+      "Tražiš prečice ili stalno visok intenzitet",
+      "Ne želiš komunikaciju ili ne poštuješ oporavak",
+      "Želiš generički plan bez povratnih informacija"
     ],
     "developingTitle": "Zašto rad sa mnom sada",
     "developingBody": "Radim sa ograničenim brojem sportista, kako bih svakome mogao da posvetim dovoljno pažnje. To znači promišljeno planiranje, detaljan pregled treninga i brze prilagodbe kada se raspored promeni. Kontinuirano se usavršavam kroz edukacije i radionice (uključujući metaboličko profilisanje), a pristup mi je praktičan i usmeren na sportistu. Bez preuveličavanja — samo jasan proces i dosledan napredak.",
@@ -110,8 +110,8 @@
     "resourcesTitle": "Besplatni resursi",
     "resourcesBody": "Praktične sports science smernice koje možeš odmah da primeniš—bez praznih priča.",
     "bottomCtaTitle": "Spreman za jasniji trening?",
-    "bottomCtaBody": "Odgovori prvo na nekoliko kratkih pitanja. Ako smo dobar fit, odmah nastavljaš na stranicu za zakazivanje uvodnog poziva.",
-    "heroPrimaryCta": "Pogledaj opcije coachinga",
+    "bottomCtaBody": "Odgovori prvo na nekoliko kratkih pitanja. Ako nam saradnja odgovara, odmah nastavljaš na stranicu za zakazivanje uvodnog poziva.",
+    "heroPrimaryCta": "Pogledaj opcije saradnje",
     "valueTitle": "Ne treba ti više treninga.",
     "valueTitleAccent": "Treba ti pravi trening.",
     "benefits": [
@@ -125,16 +125,16 @@
       },
       {
         "title": "Stvaran napredak",
-        "body": "Koristimo podatke i tvoj feedback da vidimo šta radi i šta treba promeniti."
+        "body": "Koristimo podatke i tvoje povratne informacije da vidimo šta funkcioniše i šta treba promeniti."
       },
       {
-        "title": "Coach uz tebe",
+        "title": "Trener uz tebe",
         "body": "Jasne smernice kada trening, oporavak ili život ne idu tačno po planu."
       }
     ],
     "pricingEyebrow": "Opcije saradnje",
     "pricingTitle": "Jednostavno. Transparentno. Za realan život.",
-    "pricingIntro": "Dva nivoa podrške. Ista coaching filozofija. Izaberi koliko želiš da budem uključen u tvoj trening.",
+    "pricingIntro": "Dva nivoa podrške. Isti pristup treningu. Izaberi koliko želiš da budem uključen u tvoj trening.",
     "featuredPlan": "Bliže vođenje",
     "month": "mesečno",
     "plans": [
@@ -154,15 +154,15 @@
       },
       {
         "name": "Individualno vođenje",
-        "summary": "Za sportiste koji žele redovan feedback, bliže praćenje i češće prilagođavanje treninga.",
+        "summary": "Za sportiste koji žele redovne povratne informacije, bliže praćenje i češće prilagođavanje treninga.",
         "price": "189",
         "features": [
-          "Sve iz Essential paketa",
+          "Sve iz osnovnog plana",
           "Nedeljni pregled treninga",
-          "Feedback na ključne sesije",
-          "Kontinuirane izmene plana",
-          "Strategija za trku i pacing",
-          "Redovna komunikacija sa coachom"
+          "Povratne informacije na ključne treninge",
+          "Kontinuirano prilagođavanje plana",
+          "Strategija za trku i raspodelu tempa",
+          "Redovna komunikacija sa trenerom"
         ],
         "cta": "Izaberi individualno vođenje",
         "difference": "Aktivno vodim tvoj trening."
@@ -170,7 +170,7 @@
     ],
     "processEyebrow": "Kako funkcioniše saradnja",
     "aboutEyebrow": "O Milanu",
-    "aboutImageAlt": "Milan, endurance coach",
+    "aboutImageAlt": "Milan, trener sportova izdržljivosti",
     "aboutTrust": [
       "UESCA sertifikovan trener",
       "Fokus na trčanje i biciklizam",
@@ -181,11 +181,11 @@
     "faqTitle": "Nekoliko korisnih odgovora pre početka",
     "faq": [
       {
-        "question": "Da li mi treba power meter, GPS sat ili merač pulsa?",
+        "question": "Da li mi treba merač snage, GPS sat ili merač pulsa?",
         "answer": "Ne. Mogu biti korisni, ali nisu obavezni. Možemo kvalitetno raditi koristeći tempo, RPE, vreme i podatke koje već imaš."
       },
       {
-        "question": "Da li je coaching za početnike ili iskusne sportiste?",
+        "question": "Da li je ovaj način rada za početnike ili iskusne sportiste?",
         "answer": "Za oba. Plan se pravi prema tvom trenutnom nivou, istoriji treninga, ciljevima i raspoloživom vremenu."
       },
       {
@@ -199,9 +199,9 @@
     ],
     "bottomCtaButton": "Počni ovde",
     "headerCta": "Počni saradnju",
-    "heroTrustLabel": "Kredibilitet coacha",
+    "heroTrustLabel": "Kredibilitet trenera",
     "heroTrust": "UESCA sertifikovan trener · Trčanje i biciklizam · Sportista na prvom mestu",
-    "aboutBadge": "UESCA Certified Triathlon Coach"
+    "aboutBadge": "UESCA sertifikovani trener za triatlon"
   },
   "resources": {
     "title": "Besplatni resursi",
@@ -210,9 +210,9 @@
     "resourceInProgress": "Resurs je u izradi.",
     "items": [
       {
-        "title": "Threshold trening: šta je i najčešće greške",
+        "title": "Trening na pragu: šta je i koje su najčešće greške",
         "points": [
-          "Kako da razumeš cilj threshold sesija",
+          "Kako da razumeš cilj treninga na pragu",
           "Najčešće greške u intenzitetu i volumenu",
           "Jednostavni primeri progresije koje možeš da kopiraš"
         ],
@@ -228,11 +228,11 @@
         "href": "https://example.com/resource-easy"
       },
       {
-        "title": "Fueling za duge sesije",
+        "title": "Ishrana za duge treninge",
         "points": [
-          "Početni carb/hour opsezi",
-          "Kako da progresivno treniraš digestivnu toleranciju",
-          "Osnove simulacije dana trke"
+          "Početne preporuke za unos ugljenih hidrata po satu",
+          "Kako postepeno da treniraš toleranciju sistema za varenje",
+          "Osnove pripreme ishrane za dan trke"
         ],
         "href": "https://example.com/resource-fueling"
       }
