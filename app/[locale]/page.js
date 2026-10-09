@@ -51,6 +51,10 @@ export default function HomePage({ params }) {
                 {dict.home.heroSecondaryCta}
               </Link>
             </div>
+            <div className="new-hero__trust" aria-label={dict.home.heroTrustLabel}>
+              <img src="/uesca-badge.png" alt="" aria-hidden="true" />
+              <span>{dict.home.heroTrust}</span>
+            </div>
           </div>
         </div>
       </section>
@@ -90,6 +94,7 @@ export default function HomePage({ params }) {
                 <h3>{plan.name}</h3>
                 <p className="pricing-card__summary">{plan.summary}</p>
                 <p className="pricing-card__price"><strong>€{plan.price}</strong><span>/ {dict.home.month}</span></p>
+                <p className="pricing-card__difference">{plan.difference}</p>
                 <ul className="pricing-card__list">
                   {plan.features.map((feature) => <li key={feature}>{feature}</li>)}
                 </ul>
@@ -138,7 +143,13 @@ export default function HomePage({ params }) {
 
       <section className="section about-section" id="about">
         <div className="container about-layout">
-          <img className="about-layout__photo" src="/me-card.jpg" alt={dict.home.aboutImageAlt} />
+          <div className="about-layout__visual">
+            <img className="about-layout__photo" src="/me-card.jpg" alt={dict.home.aboutImageAlt} />
+            <div className="about-layout__badge">
+              <img src="/uesca-badge.png" alt="UESCA certification badge" />
+              <span>{dict.home.aboutBadge}</span>
+            </div>
+          </div>
           <div>
             <p className="eyebrow">{dict.home.aboutEyebrow}</p>
             <h2>{dict.home.aboutTitle}</h2>
