@@ -22,7 +22,7 @@
       "Threshold development and pacing confidence—without turning every week into a sufferfest"
     ],
     "aboutTitle": "A coach who gets it.",
-    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach focused on running and cycling. My approach combines exercise physiology, training data, RPE, and athlete feedback. Numbers help us make better decisions, but the athlete always comes first.",
+    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach focused on running and cycling. I combine exercise physiology, training data, RPE, and athlete feedback to make practical decisions around the person doing the training.",
     "aboutBullets": [
       "Certification: UESCA Triathlon Coach",
       "Tools: Intervals.icu + practical training analytics",
@@ -149,7 +149,8 @@
           "Plan adjustments when needed",
           "Message support for training questions"
         ],
-        "cta": "Choose Essential"
+        "cta": "Choose Essential",
+        "difference": "I build your training."
       },
       {
         "name": "Personal Coaching",
@@ -163,7 +164,8 @@
           "Race preparation and pacing strategy",
           "Regular coach communication"
         ],
-        "cta": "Choose Personal Coaching"
+        "cta": "Choose Personal Coaching",
+        "difference": "I actively coach your training."
       }
     ],
     "processEyebrow": "How it works",
@@ -196,7 +198,10 @@
       }
     ],
     "bottomCtaButton": "Start here",
-    "headerCta": "Start coaching"
+    "headerCta": "Start coaching",
+    "heroTrustLabel": "Coach credentials",
+    "heroTrust": "UESCA Certified Coach · Running & Cycling · Athlete-first, data-informed",
+    "aboutBadge": "UESCA Certified Triathlon Coach"
   },
   "resources": {
     "title": "Free resources",
@@ -351,6 +356,8 @@
     "goalPlaceholder": "e.g. first half marathon, faster 10K, raise FTP",
     "submit": "Continue to book call",
     "sending": "Sending...",
-    "error": "Something went wrong. Please try again."
+    "error": "Something went wrong. Please try again.",
+    "timeNote": "Takes about 1 minute.",
+    "reassurance": "No commitment. The call is simply to see if we're a good fit."
   }
 }
