@@ -51,7 +51,7 @@ export default function HomePage({ params }) {
             </div>
           </div>
           <div className="new-hero__image-wrap" aria-hidden="true">
-            <img className="new-hero__image" src="/hero_desktop.png" alt="" />
+            <img className="new-hero__image" src="/hero-coaching.jpg" alt="" />
           </div>
         </div>
       </section>
@@ -132,7 +132,7 @@ export default function HomePage({ params }) {
             <CoachingIntakeForm dict={dict} />
           </div>
           <div className="intake-layout__image" aria-hidden="true">
-            <img src="/principle.png" alt="" />
+            <img src="/coaching-landscape.jpg" alt="" />
           </div>
         </div>
       </section>
