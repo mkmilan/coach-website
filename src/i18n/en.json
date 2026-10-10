@@ -10,10 +10,10 @@
     "viewResources": "View resources"
   },
   "home": {
-    "heroEyebrow": "Online endurance coaching",
-    "heroTitle": "Stop guessing. Start improving.",
-    "heroSubtitle": "If your training feels chaotic, inconsistent, or stuck—I'll help you build a simple structure that fits your life and moves you forward.",
-    "heroSecondaryCta": "See how coaching works",
+    "heroEyebrow": "Running & cycling coaching",
+    "heroTitle": "Running & Cycling Coaching Made Simple",
+    "heroSubtitle": "Personalized coaching, clear training, and real-life flexibility so you can make consistent progress without making training unnecessarily complicated.",
+    "heroSecondaryCta": "Book a free intro call",
     "heroCred": "Runners • Cyclists • Triathletes • Calm, science-informed process • Limited roster for high attention",
     "optimizeTitle": "What we improve (in plain terms)",
     "optimizeItems": [
@@ -21,8 +21,8 @@
       "Aerobic fitness and durability so you can handle more training safely",
       "Threshold development and pacing confidence—without turning every week into a sufferfest"
     ],
-    "aboutTitle": "About Milan",
-    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach. I coach runners, cyclists, and triathletes with a simple goal: turn your effort into consistent progress. We use data (pace, power, HR, lactate when available) but decisions are guided by context and RPE—so the plan stays realistic, not theoretical.",
+    "aboutTitle": "A coach who gets it.",
+    "aboutBody": "I'm Milan, a UESCA Certified Triathlon Coach focused on running and cycling. I combine exercise physiology, training data, RPE, and athlete feedback to make practical decisions around the person doing the training.",
     "aboutBullets": [
       "Certification: UESCA Triathlon Coach",
       "Tools: Intervals.icu + practical training analytics",
@@ -88,25 +88,120 @@
     ],
     "developingTitle": "Why work with me now",
     "developingBody": "I keep my roster small on purpose—so you get high attention, thoughtful planning, and fast adjustments when life happens. I stay current through ongoing education (including metabolic profiling workshops) and I coach with a calm, athlete-first approach. No hype—just a process you can trust.",
-    "processTitle": "How coaching works",
+    "processTitle": "From conversation to progress — in four simple steps.",
     "processSteps": [
       {
-        "title": "Intro call (30-60 min)",
-        "body": "We talk goals, training history, constraints, and what success looks like for you."
+        "title": "Tell me about you",
+        "body": "Share your background, goals, current training, and available time."
       },
       {
-        "title": "Setup week",
-        "body": "We align schedule, set training zones/testing if needed, and start with a clear first structure."
+        "title": "Get your plan",
+        "body": "I build a personalized training structure around your life and goals."
       },
       {
-        "title": "Train and iterate",
-        "body": "Weekly feedback, smart progression, and adjustments based on how you respond."
+        "title": "Train",
+        "body": "Follow your plan with clear session purpose and ongoing support."
+      },
+      {
+        "title": "Adjust and improve",
+        "body": "We review, learn, and make changes so training keeps moving forward."
       }
     ],
     "resourcesTitle": "Free resources",
     "resourcesBody": "Practical sports science notes you can apply immediately—no fluff.",
-    "bottomCtaTitle": "Book an intro call",
-    "bottomCtaBody": "Tell me your goal and your schedule. I'll tell you what I would do—and if we're a good fit."
+    "bottomCtaTitle": "Ready to train with more clarity?",
+    "bottomCtaBody": "Answer a few short questions first. If we're a good fit, you'll continue directly to the intro-call booking page.",
+    "heroPrimaryCta": "See coaching options",
+    "valueTitle": "You don't need more training.",
+    "valueTitleAccent": "You need the right training.",
+    "benefits": [
+      {
+        "title": "Tailored to you",
+        "body": "Training built around your goals, history, schedule, and current fitness."
+      },
+      {
+        "title": "Built around your life",
+        "body": "A plan that works with your available time instead of fighting it."
+      },
+      {
+        "title": "Real progress",
+        "body": "We use training data and feedback to see what's working and what needs to change."
+      },
+      {
+        "title": "A coach in your corner",
+        "body": "Clear guidance when training, recovery, or life doesn't go exactly to plan."
+      }
+    ],
+    "pricingEyebrow": "Coaching options",
+    "pricingTitle": "Simple. Transparent. Built for real life.",
+    "pricingIntro": "Two levels of support. Same coaching philosophy. Choose how closely you want me involved in your training.",
+    "featuredPlan": "Closer coaching",
+    "month": "month",
+    "plans": [
+      {
+        "name": "Essential",
+        "summary": "For athletes who want an individual plan and expert direction while training mostly independently.",
+        "price": "89",
+        "features": [
+          "Personalized running or cycling plan",
+          "Built around your schedule",
+          "Monthly training review",
+          "Plan adjustments when needed",
+          "Message support for training questions"
+        ],
+        "cta": "Choose Essential",
+        "difference": "I build your training."
+      },
+      {
+        "name": "Personal Coaching",
+        "summary": "For athletes who want ongoing feedback, closer monitoring, and more frequent adjustments.",
+        "price": "189",
+        "features": [
+          "Everything in Essential",
+          "Weekly training review",
+          "Feedback on key sessions",
+          "Ongoing plan adjustments",
+          "Race preparation and pacing strategy",
+          "Regular coach communication"
+        ],
+        "cta": "Choose Personal Coaching",
+        "difference": "I actively coach your training."
+      }
+    ],
+    "processEyebrow": "How it works",
+    "aboutEyebrow": "About Milan",
+    "aboutImageAlt": "Milan, endurance coach",
+    "aboutTrust": [
+      "UESCA Certified Coach",
+      "Running & cycling focus",
+      "Data-informed approach",
+      "Athlete-first mindset"
+    ],
+    "faqEyebrow": "FAQ",
+    "faqTitle": "A few useful answers before you start",
+    "faq": [
+      {
+        "question": "Do I need a power meter, GPS watch, or heart-rate monitor?",
+        "answer": "No. They can help, but they are not required. We can coach effectively using pace, RPE, time, and the data you already have."
+      },
+      {
+        "question": "Is this for beginners or experienced athletes?",
+        "answer": "Both. The plan is built around your current level, training history, goals, and available time."
+      },
+      {
+        "question": "Do you coach triathlon?",
+        "answer": "Right now I am focusing this service on running and cycling. I am not offering full swim or triathlon coaching through these plans."
+      },
+      {
+        "question": "What happens before the intro call?",
+        "answer": "You answer a few short questions first. That gives me enough context to prepare and makes the call more useful for both of us."
+      }
+    ],
+    "bottomCtaButton": "Start here",
+    "headerCta": "Start coaching",
+    "heroTrustLabel": "Coach credentials",
+    "heroTrust": "UESCA Certified Coach · Running & Cycling · Athlete-first, data-informed",
+    "aboutBadge": "UESCA Certified Triathlon Coach"
   },
   "resources": {
     "title": "Free resources",
@@ -228,5 +323,41 @@
         "body": "Coaching services are educational and training-related. They do not replace medical advice. If you have a medical condition or symptoms, consult a qualified healthcare professional."
       }
     ]
+  },
+  "intake": {
+    "eyebrow": "Before the call",
+    "title": "A few quick questions first.",
+    "intro": "This takes about a minute and gives me enough context to prepare before we speak.",
+    "select": "Select",
+    "fields": {
+      "age": "Age",
+      "gender": "Gender",
+      "sport": "Sport",
+      "experience": "Training experience",
+      "hours": "Weekly training hours",
+      "goal": "Main goal",
+      "email": "Email"
+    },
+    "options": {
+      "male": "Male",
+      "female": "Female",
+      "preferNot": "Prefer not to say",
+      "running": "Running",
+      "cycling": "Cycling",
+      "lessThanOne": "Less than 1 year",
+      "oneToThree": "1–3 years",
+      "threeToFive": "3–5 years",
+      "fivePlus": "5+ years",
+      "underFour": "Under 4 hours",
+      "fourToSeven": "4–7 hours",
+      "eightToEleven": "8–11 hours",
+      "twelvePlus": "12+ hours"
+    },
+    "goalPlaceholder": "e.g. first half marathon, faster 10K, raise FTP",
+    "submit": "Continue to book call",
+    "sending": "Sending...",
+    "error": "Something went wrong. Please try again.",
+    "timeNote": "Takes about 1 minute.",
+    "reassurance": "No commitment. The call is simply to see if we're a good fit."
   }
 }

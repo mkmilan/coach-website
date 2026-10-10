@@ -43,7 +43,7 @@ Deliver a working Next.js project with:
 
 - Use copy from SPEC.md
 - Do not invent fake testimonials or client results
-- Keep triathlon included but not leading (run/bike slightly leading)
+- Coaching offer is focused on running and cycling only. Do not market swim or full triathlon coaching.
 - Add "Continuous Development" mention (INSCYD + ongoing study) in a confident, non-apologetic way
 
 ## Image Assets
@@ -104,3 +104,10 @@ Implement form submission using:
 All "Book intro call" buttons link to a Calendly URL placeholder:
 
 - const CALENDLY_URL = "https://calendly.com/YOUR_HANDLE/intro-call";
+
+
+## Branch policy for redesign
+
+- Do not make redesign changes directly on `main`.
+- Build and review the current website redesign on the `dev` branch.
+- Merge to `main` only after explicit approval.
